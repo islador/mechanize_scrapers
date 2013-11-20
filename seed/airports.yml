@@ -1,0 +1,3609 @@
+---
+- :city: Tirana
+  :country: Albania
+  :i_code: TIA
+  :name: Tirana International Airport
+- :city: Algiers
+  :country: Algeria
+  :i_code: ALG
+  :name: Algiers Houari Boumediene Airport
+- :city: Oran
+  :country: Algeria
+  :i_code: ORN
+  :name: Oran Es Senia Airport
+- :city: Luanda
+  :country: Angola
+  :i_code: LAD
+  :name: Luanda Quatro de Fevereiro Airport
+- :city: Antigua
+  :country: Antigua And Barbuda
+  :i_code: ANU
+  :name: Antigua V. C. Bird International Airport
+- :city: ' BA'
+  :country: Argentina
+  :i_code: AEP
+  :name: Buenos Aires Jorge Newbery Airport
+- :city: ' CD'
+  :country: Argentina
+  :i_code: COR
+  :name: Cordoba International Airport
+- :city: ' BA'
+  :country: Argentina
+  :i_code: EZE
+  :name: Buenos Aires Ministro Pistarini International Airport
+- :city: ' SF'
+  :country: Argentina
+  :i_code: ROS
+  :name: Rosario Islas Malvinas International Airport
+- :city: ' TU'
+  :country: Argentina
+  :i_code: TUC
+  :name: Tucuman Airport
+- :city: Yerevan
+  :country: Armenia
+  :i_code: EVN
+  :name: Yerevan Zvartnots International Airport
+- :city: Oranjestad
+  :country: Aruba
+  :i_code: AUA
+  :name: Oranjestad Queen Beatrix International Airport
+- :city: ' NS'
+  :country: Australia
+  :i_code: ABX
+  :name: Albury Airport
+- :city: ' SA'
+  :country: Australia
+  :i_code: ADL
+  :name: Adelaide Airport
+- :city: ' NT'
+  :country: Australia
+  :i_code: ASP
+  :name: Alice Springs Airport
+- :city: ' VI'
+  :country: Australia
+  :i_code: AVV
+  :name: Avalon Airport
+- :city: ' NT'
+  :country: Australia
+  :i_code: AYQ
+  :name: Ayers Rock Airport
+- :city: ' NSW'
+  :country: Australia
+  :i_code: BHQ
+  :name: Broken Hill Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: BNE
+  :name: Brisbane Airport
+- :city: ' AC'
+  :country: Australia
+  :i_code: CBR
+  :name: Canberra International Airport
+- :city: ' NS'
+  :country: Australia
+  :i_code: CFS
+  :name: Coffs Harbour Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: CNS
+  :name: Cairns Airport
+- :city: ' NS'
+  :country: Australia
+  :i_code: DBO
+  :name: Dubbo City Airport
+- :city: ' NT'
+  :country: Australia
+  :i_code: DRW
+  :name: Darwin International Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: EMD
+  :name: Emerald Airport
+- :city: ' TS'
+  :country: Australia
+  :i_code: HBA
+  :name: Hobart International Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: ISA
+  :name: Mount Isa Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: LRE
+  :name: Longreach Airport
+- :city: ' TS'
+  :country: Australia
+  :i_code: LST
+  :name: Launceston Airport
+- :city: ' VI'
+  :country: Australia
+  :i_code: MEL
+  :name: Melbourne Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: MKY
+  :name: Mackay Airport
+- :city: ' NS'
+  :country: Australia
+  :i_code: NTL
+  :name: Newcastle Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: OOL
+  :name: Gold Coast Airport
+- :city: ' WA'
+  :country: Australia
+  :i_code: PER
+  :name: Perth Airport
+- :city: ' WA'
+  :country: Australia
+  :i_code: PHE
+  :name: Port Hedland International Airport
+- :city: ' NS'
+  :country: Australia
+  :i_code: SYD
+  :name: Sydney Kingsford Smith Airport
+- :city: ' QLD'
+  :country: Australia
+  :i_code: TSV
+  :name: Townsville Airport
+- :city: ' NS'
+  :country: Australia
+  :i_code: WGA
+  :name: Wagga Wagga Airport
+- :city: Graz
+  :country: Austria
+  :i_code: GRZ
+  :name: Graz Airport
+- :city: Innsbruck
+  :country: Austria
+  :i_code: INN
+  :name: Innsbruck Kranebitten Airport
+- :city: Klagenfurt
+  :country: Austria
+  :i_code: KLU
+  :name: Klagenfurt Airport
+- :city: Linz
+  :country: Austria
+  :i_code: LNZ
+  :name: Linz Airport
+- :city: Salzburg
+  :country: Austria
+  :i_code: SZG
+  :name: Salzburg Airport
+- :city: Vienna
+  :country: Austria
+  :i_code: VIE
+  :name: Vienna International Airport
+- :city: Baku
+  :country: Azerbaijan
+  :i_code: GYD
+  :name: Baku Heydar Aliyev International Airport
+- :city: Freeport
+  :country: Bahamas
+  :i_code: FPO
+  :name: Grand Bahama International Airport
+- :city: Nassau
+  :country: Bahamas
+  :i_code: NAS
+  :name: Nassau Lynden Pindling International Airport
+- :city: Bahrain
+  :country: Bahrain
+  :i_code: BAH
+  :name: Bahrain International Airport
+- :city: Dhaka
+  :country: Bangladesh
+  :i_code: DAC
+  :name: Dhaka Shahjalal International Airport
+- :city: Bridgetown
+  :country: Barbados
+  :i_code: BGI
+  :name: Bridgetown Grantley Adams International Airport
+- :city: Minsk
+  :country: Belarus
+  :i_code: MSQ
+  :name: Minsk International Airport
+- :city: Brussels
+  :country: Belgium
+  :i_code: BRU
+  :name: Brussels Airport
+- :city: Brussels
+  :country: Belgium
+  :i_code: CRL
+  :name: Brussels South Charleroi Airport
+- :city: Liege
+  :country: Belgium
+  :i_code: LGG
+  :name: Liege Airport
+- :city: Ostend
+  :country: Belgium
+  :i_code: OST
+  :name: Ostend-Bruges International Airport
+- :city: Cotonou
+  :country: Benin
+  :i_code: COO
+  :name: Cotonou Cadjehoun Airport
+- :city: San Joaquin
+  :country: Bolivia
+  :i_code: SJB
+  :name: Sao Jose do Rio Preto Airport
+- :city: Santa Cruz
+  :country: Bolivia
+  :i_code: VVI
+  :name: Santa Cruz Viru Viru International Airport
+- :city: Mostar
+  :country: Bosnia And Herzegovina
+  :i_code: OMO
+  :name: Mostar International Airport
+- :city: Sarajevo
+  :country: Bosnia And Herzegovina
+  :i_code: SJJ
+  :name: Sarajevo International Airport
+- :city: Gaborone
+  :country: Botswana
+  :i_code: GBE
+  :name: Gaborone Sir Seretse Khama International Airport
+- :city: ' SP'
+  :country: Brazil
+  :i_code: ARU
+  :name: Aracatuba Airport
+- :city: ' PA'
+  :country: Brazil
+  :i_code: BEL
+  :name: Belem Val de Cans International Airport
+- :city: ' DF'
+  :country: Brazil
+  :i_code: BSB
+  :name: Brasilia International Airport
+- :city: ' MT'
+  :country: Brazil
+  :i_code: CGB
+  :name: Cuiaba Marechal Rondon International Airport
+- :city: ' SP'
+  :country: Brazil
+  :i_code: CGH
+  :name: Sao Paulo Congonhas Airport
+- :city: ' MS'
+  :country: Brazil
+  :i_code: CGR
+  :name: Campo Grande International Airport
+- :city: ' MG'
+  :country: Brazil
+  :i_code: CNF
+  :name: Tancredo Neves International Airport
+- :city: ' PB'
+  :country: Brazil
+  :i_code: CPV
+  :name: Campina Grande Airport
+- :city: ' PR'
+  :country: Brazil
+  :i_code: CWB
+  :name: Curitiba Afonso Pena International Airport
+- :city: ' SC'
+  :country: Brazil
+  :i_code: FLN
+  :name: Florianopolis Hercilio Luz International Airport
+- :city: ' CE'
+  :country: Brazil
+  :i_code: FOR
+  :name: Pinto Martins International Airport
+- :city: ' RJ'
+  :country: Brazil
+  :i_code: GIG
+  :name: Rio de Janeiro Galeao International Airport
+- :city: ' SP'
+  :country: Brazil
+  :i_code: GRU
+  :name: Sao Paulo Guarulhos International Airport
+- :city: ' GO'
+  :country: Brazil
+  :i_code: GYN
+  :name: Goiania Santa Genoveva Airport
+- :city: ' CE'
+  :country: Brazil
+  :i_code: JDO
+  :name: Juazeiro do Norte Airport
+- :city: ' PB'
+  :country: Brazil
+  :i_code: JPA
+  :name: Joao Pessoa Castro Pinto International Airport
+- :city: Bauru
+  :country: Brazil
+  :i_code: JTC
+  :name: Bauru Arealva Airport
+- :city: ' PR'
+  :country: Brazil
+  :i_code: LDB
+  :name: Londrina Airport
+- :city: ' AM'
+  :country: Brazil
+  :i_code: MAO
+  :name: Manaus Eduardo Gomes International Airport
+- :city: ' PR'
+  :country: Brazil
+  :i_code: MGF
+  :name: Maringa Regional Airport
+- :city: ' RN'
+  :country: Brazil
+  :i_code: NAT
+  :name: Natal Augusto Severo International Airport
+- :city: ' SC'
+  :country: Brazil
+  :i_code: NVT
+  :name: Navegantes Victor Konder International Airport
+- :city: ' TO'
+  :country: Brazil
+  :i_code: PMW
+  :name: Palmas Airport
+- :city: ' PE'
+  :country: Brazil
+  :i_code: PNZ
+  :name: Petrolina Airport
+- :city: ' RS'
+  :country: Brazil
+  :i_code: POA
+  :name: Porto Alegre Salgado Filho International Airport
+- :city: ' SP'
+  :country: Brazil
+  :i_code: RAO
+  :name: Ribeirao Preto Leite Lopes Airport
+- :city: ' PE'
+  :country: Brazil
+  :i_code: REC
+  :name: Recife Airport
+- :city: ' SP'
+  :country: Brazil
+  :i_code: SJP
+  :name: Sao Jose Do Rio Preto Airport
+- :city: ' MA'
+  :country: Brazil
+  :i_code: SLZ
+  :name: Sao Luis Airport
+- :city: ' BA'
+  :country: Brazil
+  :i_code: SSA
+  :name: Salvador International Airport
+- :city: ' PI'
+  :country: Brazil
+  :i_code: THE
+  :name: Teresina Airport
+- :city: ' MG'
+  :country: Brazil
+  :i_code: UBA
+  :name: Uberaba Airport
+- :city: ' MG'
+  :country: Brazil
+  :i_code: UDI
+  :name: Uberlandia Airport
+- :city: ' SP'
+  :country: Brazil
+  :i_code: VCP
+  :name: Viracopos-Campinas International Airport
+- :city: ' BA'
+  :country: Brazil
+  :i_code: VDC
+  :name: Vitoria da Conquista Airport
+- :city: ' ES'
+  :country: Brazil
+  :i_code: VIX
+  :name: Vitoria Eurico de Aguiar Salles Airport
+- :city: ' SC'
+  :country: Brazil
+  :i_code: XAP
+  :name: Chapeco Airport
+- :city: Brunei
+  :country: Brunei
+  :i_code: BWN
+  :name: Brunei International Airport
+- :city: Burgas
+  :country: Bulgaria
+  :i_code: BOJ
+  :name: Burgas Airport
+- :city: Plovdiv
+  :country: Bulgaria
+  :i_code: PDV
+  :name: Plovdiv Airport
+- :city: Sofia
+  :country: Bulgaria
+  :i_code: SOF
+  :name: Sofia Airport
+- :city: Varna
+  :country: Bulgaria
+  :i_code: VAR
+  :name: Varna Airport
+- :city: Bujumbura
+  :country: Burundi
+  :i_code: BJM
+  :name: Bujumbura International Airport
+- :city: Phnom Penh
+  :country: Cambodia
+  :i_code: PNH
+  :name: Phnom Penh International Airport
+- :city: ' AB'
+  :country: Canada
+  :i_code: YEG
+  :name: Edmonton International Airport
+- :city: ' ON'
+  :country: Canada
+  :i_code: YHM
+  :name: Hamilton John C. Munro International Airport
+- :city: ' NS'
+  :country: Canada
+  :i_code: YHZ
+  :name: Halifax Stanfield International Airport
+- :city: ' ON'
+  :country: Canada
+  :i_code: YOW
+  :name: Ottawa Macdonald-Cartier International Airport
+- :city: ' QC'
+  :country: Canada
+  :i_code: YQB
+  :name: Quebec City International Airport
+- :city: ' SK'
+  :country: Canada
+  :i_code: YQR
+  :name: Regina International Airport
+- :city: ' QC'
+  :country: Canada
+  :i_code: YUL
+  :name: Montreal Pierre Elliott Trudeau Airport
+- :city: ' BC'
+  :country: Canada
+  :i_code: YVR
+  :name: Vancouver International Airport
+- :city: ' MB'
+  :country: Canada
+  :i_code: YWG
+  :name: Winnipeg International Airport
+- :city: ' ON'
+  :country: Canada
+  :i_code: YXU
+  :name: London International Airport
+- :city: ' BC'
+  :country: Canada
+  :i_code: YXX
+  :name: Abbotsford International Airport
+- :city: ' AB'
+  :country: Canada
+  :i_code: YYC
+  :name: Calgary International Airport
+- :city: ' BC'
+  :country: Canada
+  :i_code: YYJ
+  :name: Victoria International Airport
+- :city: ' NL'
+  :country: Canada
+  :i_code: YYT
+  :name: St. John's International Airport
+- :city: ' ON'
+  :country: Canada
+  :i_code: YYZ
+  :name: Toronto Pearson International Airport
+- :city: Boa Vista
+  :country: Cape Verde
+  :i_code: BVC
+  :name: Boa Vista Rabil Airport
+- :city: Espargos
+  :country: Cape Verde
+  :i_code: SID
+  :name: Espargos Amilcar Cabral International Airport
+- :city: Santiago
+  :country: Chile
+  :i_code: SCL
+  :name: Santiago International Airport
+- :city: Guangzhou
+  :country: China
+  :i_code: CAN
+  :name: Guangzhou Baiyun International Airport
+- :city: Chengdu
+  :country: China
+  :i_code: CTU
+  :name: Chengdu Shuangliu International Airport
+- :city: Fuzhou
+  :country: China
+  :i_code: FOC
+  :name: Fuzhou Changle International Airport
+- :city: Hangzhou
+  :country: China
+  :i_code: HGH
+  :name: Hangzhou Xiaoshan International Airport
+- :city: Hong Kong
+  :country: China
+  :i_code: HKG
+  :name: Hong Kong International Airport
+- :city: Jinjiang
+  :country: China
+  :i_code: JJN
+  :name: Quanzhou Jinjiang Airport
+- :city: Macau
+  :country: China
+  :i_code: MFM
+  :name: Macau International Airport
+- :city: Ningbo
+  :country: China
+  :i_code: NGB
+  :name: Ningbo Lishe International Airport
+- :city: Nanjing
+  :country: China
+  :i_code: NKG
+  :name: Nanjing Lukou International Airport
+- :city: Beijing
+  :country: China
+  :i_code: PEK
+  :name: Beijing Capital International Airport
+- :city: Shanghai
+  :country: China
+  :i_code: PVG
+  :name: Shanghai Pudong International Airport
+- :city: Shanghai
+  :country: China
+  :i_code: SHA
+  :name: Shanghai Hongqiao International Airport
+- :city: Shenzhen
+  :country: China
+  :i_code: SZX
+  :name: Shenzhen Bao'an International Airport
+- :city: Tianjin
+  :country: China
+  :i_code: TSN
+  :name: Tianjin Binhai International Airport
+- :city: Weihai
+  :country: China
+  :i_code: WEH
+  :name: Weihai Dashuibo Airport
+- :city: Wuhan
+  :country: China
+  :i_code: WUH
+  :name: Wuhan Tianhe International Airport
+- :city: Xiangyang
+  :country: China
+  :i_code: XFN
+  :name: Xiangyang Liuji Airport
+- :city: Xiamen
+  :country: China
+  :i_code: XMN
+  :name: Xiamen Gaoqi International Airport
+- :city: Yantai
+  :country: China
+  :i_code: YNT
+  :name: Yantai Laishan International Airport
+- :city: Bogota
+  :country: Colombia
+  :i_code: BOG
+  :name: Bogota El Dorado International Airport
+- :city: Cartagena
+  :country: Colombia
+  :i_code: CTG
+  :name: Rafael Nunez International Airport
+- :city: Medellin
+  :country: Colombia
+  :i_code: MDE
+  :name: Medellin International Airport
+- :city: Monteria
+  :country: Colombia
+  :i_code: MTR
+  :name: Monteria Los Garzones Airport
+- :city: Brazzaville
+  :country: Congo
+  :i_code: BZV
+  :name: Brazzaville Maya Maya Airport
+- :city: San Jose
+  :country: Costa Rica
+  :i_code: SJO
+  :name: San Jose Juan Santamaria International Airport
+- :city: Dubrovnik
+  :country: Croatia
+  :i_code: DBV
+  :name: Dubrovnik Airport
+- :city: Pula
+  :country: Croatia
+  :i_code: PUY
+  :name: Pula Airport
+- :city: Rijeka
+  :country: Croatia
+  :i_code: RJK
+  :name: Rijeka Airport
+- :city: Split
+  :country: Croatia
+  :i_code: SPU
+  :name: Split Airport
+- :city: Zadar
+  :country: Croatia
+  :i_code: ZAD
+  :name: Zadar Airport
+- :city: Zagreb
+  :country: Croatia
+  :i_code: ZAG
+  :name: Zagreb Airport
+- :city: Havana
+  :country: Cuba
+  :i_code: HAV
+  :name: Havana Jose Marti International Airport
+- :city: Willemstad
+  :country: Curacao
+  :i_code: CUR
+  :name: Willemstad Curacao Hato International Airport
+- :city: Larnaca
+  :country: Cyprus
+  :i_code: LCA
+  :name: Larnaca International Airport
+- :city: Pafos
+  :country: Cyprus
+  :i_code: PFO
+  :name: Paphos International Airport
+- :city: Brno
+  :country: Czech Republic
+  :i_code: BRQ
+  :name: Brno-Turany Airport
+- :city: Karlovy Vary
+  :country: Czech Republic
+  :i_code: KLV
+  :name: Karlovy Vary Airport
+- :city: Ostrava
+  :country: Czech Republic
+  :i_code: OSR
+  :name: Ostrava Leos Janacek Airport
+- :city: Pardubice
+  :country: Czech Republic
+  :i_code: PED
+  :name: Pardubice Airport
+- :city: Prague
+  :country: Czech Republic
+  :i_code: PRG
+  :name: Prague Vaclav Havel Airport
+- :city: Aalborg
+  :country: Denmark
+  :i_code: AAL
+  :name: Aalborg Airport
+- :city: Aarhus
+  :country: Denmark
+  :i_code: AAR
+  :name: Aarhus Airport
+- :city: Billund
+  :country: Denmark
+  :i_code: BLL
+  :name: Billund Airport
+- :city: Copenhagen
+  :country: Denmark
+  :i_code: CPH
+  :name: Copenhagen Airport
+- :city: Karup
+  :country: Denmark
+  :i_code: KRP
+  :name: Karup Airport
+- :city: Ronne
+  :country: Denmark
+  :i_code: RNN
+  :name: Bornholm Airport
+- :city: Dominica
+  :country: Dominica
+  :i_code: DOM
+  :name: Dominica Melville Hall Airport
+- :city: Puerto Plata
+  :country: Dominican Republic
+  :i_code: POP
+  :name: Puerto Plata Gregorio Luperon International Airport
+- :city: Punta Cana
+  :country: Dominican Republic
+  :i_code: PUJ
+  :name: Punta Cana International Airport
+- :city: Santo Domingo
+  :country: Dominican Republic
+  :i_code: SDQ
+  :name: Santo Domingo Las Americas International Airport
+- :city: Guayaquil
+  :country: Ecuador
+  :i_code: GYE
+  :name: Guayaquil International Airport
+- :city: Cairo
+  :country: Egypt
+  :i_code: CAI
+  :name: Cairo International Airport
+- :city: Alexandria
+  :country: Egypt
+  :i_code: HBE
+  :name: Alexandria Borg El Arab
+- :city: San Salvador
+  :country: El Salvador
+  :i_code: SAL
+  :name: San Salvador International Airport
+- :city: Tartu
+  :country: Estonia
+  :i_code: TAY
+  :name: Tartu Airport
+- :city: Tallinn
+  :country: Estonia
+  :i_code: TLL
+  :name: 'Tallinn Lennart Meri Airport '
+- :city: Vagar
+  :country: Faroe Islands
+  :i_code: FAE
+  :name: Vagar Airport
+- :city: Mana Island
+  :country: Fiji
+  :i_code: MNF
+  :name: Beach House Maldives at Manafaru
+- :city: Helsinki
+  :country: Finland
+  :i_code: HEL
+  :name: Helsinki Vantaa Airport
+- :city: Ivalo
+  :country: Finland
+  :i_code: IVL
+  :name: Ivalo Airport
+- :city: Joensuu
+  :country: Finland
+  :i_code: JOE
+  :name: Joensuu Airport
+- :city: Jyvaskyla
+  :country: Finland
+  :i_code: JYV
+  :name: Jyvaskyla Airport
+- :city: Kajaani
+  :country: Finland
+  :i_code: KAJ
+  :name: Kajaani Airport
+- :city: Kuusamo
+  :country: Finland
+  :i_code: KAO
+  :name: Kuusamo Airport
+- :city: Kemi
+  :country: Finland
+  :i_code: KEM
+  :name: Kemi-Tornio Airport
+- :city: Kokkola
+  :country: Finland
+  :i_code: KOK
+  :name: Kokkola-Pietarsaari Airport
+- :city: Kittila
+  :country: Finland
+  :i_code: KTT
+  :name: Kittila Airport
+- :city: Kuopio
+  :country: Finland
+  :i_code: KUO
+  :name: Kuopio Airport
+- :city: Lappeenranta
+  :country: Finland
+  :i_code: LPP
+  :name: Lappeenranta Airport
+- :city: Mariehamn
+  :country: Finland
+  :i_code: MHQ
+  :name: Mariehamn Airport
+- :city: Mikkeli
+  :country: Finland
+  :i_code: MIK
+  :name: Mikkeli Airport
+- :city: Oulu
+  :country: Finland
+  :i_code: OUL
+  :name: Oulu Airport
+- :city: Pori
+  :country: Finland
+  :i_code: POR
+  :name: Pori Airport
+- :city: Rovaniemi
+  :country: Finland
+  :i_code: RVN
+  :name: Rovaniemi Airport
+- :city: Turku
+  :country: Finland
+  :i_code: TKU
+  :name: Turku Airport
+- :city: Tampere
+  :country: Finland
+  :i_code: TMP
+  :name: Tampere-Pirkkala Airport
+- :city: Vaasa
+  :country: Finland
+  :i_code: VAA
+  :name: Vaasa Airport
+- :city: Ajaccio
+  :country: France
+  :i_code: AJA
+  :name: Ajaccio Napoleon Bonaparte Airport
+- :city: Brest
+  :country: France
+  :i_code: BES
+  :name: Brest Bretagne Airport
+- :city: Bastia
+  :country: France
+  :i_code: BIA
+  :name: Bastia – Poretta Airport
+- :city: Biarritz
+  :country: France
+  :i_code: BIQ
+  :name: Biarritz Anglet Bayonne Airport
+- :city: Bordeaux
+  :country: France
+  :i_code: BOD
+  :name: Bordeaux–Merignac Airport
+- :city: Mulhouse
+  :country: France
+  :i_code: BSL
+  :name: Basel-Mulhouse-Freiburg EuroAirport
+- :city: Paris
+  :country: France
+  :i_code: BVA
+  :name: Paris Beauvais-Tille Airport
+- :city: Beziers
+  :country: France
+  :i_code: BZR
+  :name: Beziers Cap d'Agde Airport
+- :city: Carcassonne
+  :country: France
+  :i_code: CCF
+  :name: Carcassonne Airport
+- :city: Paris
+  :country: France
+  :i_code: CDG
+  :name: Paris Charles de Gaulle Airport
+- :city: Calvi
+  :country: France
+  :i_code: CLY
+  :name: Calvi Sainte-Catherine Airport
+- :city: Chambery
+  :country: France
+  :i_code: CMF
+  :name: Chambery Airport
+- :city: Dole
+  :country: France
+  :i_code: DLE
+  :name: Dole Jura Airport
+- :city: Pleurtuit
+  :country: France
+  :i_code: DNR
+  :name: Saint-Malo Dinard Pleurtuit Airport
+- :city: Saint Etienne
+  :country: France
+  :i_code: EBU
+  :name: Saint Etienne Boutheon Airport
+- :city: Bergerac
+  :country: France
+  :i_code: EGC
+  :name: Bergerac Dordogne Perigord Airport
+- :city: Metz-Nancy
+  :country: France
+  :i_code: ETZ
+  :name: Metz-Nancy-Lorraine Airport
+- :city: Nimes
+  :country: France
+  :i_code: FNI
+  :name: Nimes Ales Camargue Cevennes Airport
+- :city: Figari
+  :country: France
+  :i_code: FSC
+  :name: Figari Sud-Corse Airport
+- :city: Grenoble
+  :country: France
+  :i_code: GNB
+  :name: Grenoble-Isere Airport
+- :city: Tarbes
+  :country: France
+  :i_code: LDE
+  :name: Tarbes-Lourdes-Pyrenees Airport
+- :city: Limoges
+  :country: France
+  :i_code: LIG
+  :name: Limoges – Bellegarde Airport
+- :city: Lille
+  :country: France
+  :i_code: LIL
+  :name: Lille Airport
+- :city: La Rochelle
+  :country: France
+  :i_code: LRH
+  :name: La Rochelle Ile de Re Airport
+- :city: Lyon
+  :country: France
+  :i_code: LYS
+  :name: Lyon-Saint Exupery Airport
+- :city: Montpellier
+  :country: France
+  :i_code: MPL
+  :name: Montpellier – Mediterranee Airport
+- :city: Marseille
+  :country: France
+  :i_code: MRS
+  :name: Marseille Provence Airport
+- :city: Nice
+  :country: France
+  :i_code: NCE
+  :name: Nice Cote d'Azur Airport
+- :city: Nantes
+  :country: France
+  :i_code: NTE
+  :name: Nantes Atlantique Airport
+- :city: Paris
+  :country: France
+  :i_code: ORY
+  :name: Paris Orly Airport
+- :city: Perpignan
+  :country: France
+  :i_code: PGF
+  :name: Perpignan – Rivesaltes Airport
+- :city: Poitiers
+  :country: France
+  :i_code: PIS
+  :name: Poitiers – Biard Airport
+- :city: Pau
+  :country: France
+  :i_code: PUF
+  :name: Pau Pyrenees Airport
+- :city: Rodez
+  :country: France
+  :i_code: RDZ
+  :name: Rodez Marcillac Airport
+- :city: Rennes
+  :country: France
+  :i_code: RNS
+  :name: Rennes Saint-Jacques Airport
+- :city: Strasbourg
+  :country: France
+  :i_code: SXB
+  :name: Strasbourg Airport
+- :city: Toulon
+  :country: France
+  :i_code: TLN
+  :name: Toulon-Hyeres Airport
+- :city: Toulouse
+  :country: France
+  :i_code: TLS
+  :name: Toulouse-Blagnac Airport
+- :city: Tours
+  :country: France
+  :i_code: TUF
+  :name: Tours Val de Loire Airport
+- :city: Paris
+  :country: France
+  :i_code: XCR
+  :name: Vatry Chalons Airport
+- :city: Cayenne
+  :country: French Guiana
+  :i_code: CAY
+  :name: Cayenne Felix Eboue Airport
+- :city: Papeete
+  :country: French Polynesia
+  :i_code: PPT
+  :name: Tahiti Faa'a International Airport
+- :city: Batumi
+  :country: Georgia
+  :i_code: BUS
+  :name: Batumi International Airport
+- :city: Tbilisi
+  :country: Georgia
+  :i_code: TBS
+  :name: Tbilisi International Airport
+- :city: Bremen
+  :country: Germany
+  :i_code: BRE
+  :name: Bremen Airport
+- :city: Braunschweig
+  :country: Germany
+  :i_code: BWE
+  :name: Braunschweig Airport
+- :city: Cologne
+  :country: Germany
+  :i_code: CGN
+  :name: Cologne Bonn Airport
+- :city: Cochstedt
+  :country: Germany
+  :i_code: CSO
+  :name: Magdeburg Cochstedt Airport
+- :city: Dresden
+  :country: Germany
+  :i_code: DRS
+  :name: Dresden Airport
+- :city: Dortmund
+  :country: Germany
+  :i_code: DTM
+  :name: Dortmund Airport
+- :city: Dusseldorf
+  :country: Germany
+  :i_code: DUS
+  :name: Dusseldorf International Airport
+- :city: Erfurt
+  :country: Germany
+  :i_code: ERF
+  :name: Erfurt-Weimar Airport
+- :city: Friedrichshafen
+  :country: Germany
+  :i_code: FDH
+  :name: Friedrichshafen Airport
+- :city: Karlsruhe/Baden-Baden
+  :country: Germany
+  :i_code: FKB
+  :name: Karlsruhe/Baden-Baden Airport
+- :city: Memmingen
+  :country: Germany
+  :i_code: FMM
+  :name: Memmingen Airport
+- :city: Munster
+  :country: Germany
+  :i_code: FMO
+  :name: Munster-Osnabruck International  Airport
+- :city: Frankfurt
+  :country: Germany
+  :i_code: FRA
+  :name: Frankfurt Airport
+- :city: Hannover
+  :country: Germany
+  :i_code: HAJ
+  :name: Hannover-Langenhagen Airport
+- :city: Hamburg
+  :country: Germany
+  :i_code: HAM
+  :name: Hamburg Airport
+- :city: Hahn
+  :country: Germany
+  :i_code: HHN
+  :name: Frankfurt-Hahn Airport
+- :city: Lubeck
+  :country: Germany
+  :i_code: LBC
+  :name: Lubeck Airport
+- :city: Leipzig
+  :country: Germany
+  :i_code: LEJ
+  :name: Leipzig/Halle Airport
+- :city: Munich
+  :country: Germany
+  :i_code: MUC
+  :name: Munich Airport
+- :city: Weeze
+  :country: Germany
+  :i_code: NRN
+  :name: Weeze Airport
+- :city: Nurnberg
+  :country: Germany
+  :i_code: NUE
+  :name: Nuremberg Airport
+- :city: Paderborn
+  :country: Germany
+  :i_code: PAD
+  :name: Paderborn Lippstadt Airport
+- :city: Rostock
+  :country: Germany
+  :i_code: RLG
+  :name: Rostock-Laage Airport
+- :city: Saarbrucken
+  :country: Germany
+  :i_code: SCN
+  :name: Saarbrucken Airport
+- :city: Stuttgart
+  :country: Germany
+  :i_code: STR
+  :name: Stuttgart Airport
+- :city: Berlin
+  :country: Germany
+  :i_code: SXF
+  :name: Berlin Schonefeld Airport
+- :city: Berlin
+  :country: Germany
+  :i_code: TXL
+  :name: Berlin Tegel Airport
+- :city: Hamburg
+  :country: Germany
+  :i_code: XFW
+  :name: Hamburg Finkenwerder Airport
+- :city: Zweibrucken
+  :country: Germany
+  :i_code: ZQW
+  :name: Zweibrucken Airport
+- :city: Gibraltar
+  :country: Gibraltar
+  :i_code: GIB
+  :name: Gibraltar Airport
+- :city: Karpathos
+  :country: Greece
+  :i_code: AOK
+  :name: Karpathos Island National Airport
+- :city: Athens
+  :country: Greece
+  :i_code: ATH
+  :name: Athens Eleftherios Venizelos
+- :city: Alexandroupolis
+  :country: Greece
+  :i_code: AXD
+  :name: Alexandroupolis International Airport
+- :city: Corfu
+  :country: Greece
+  :i_code: CFU
+  :name: Corfu International Airport
+- :city: Chania
+  :country: Greece
+  :i_code: CHQ
+  :name: Chania International Airport
+- :city: Kefalonia
+  :country: Greece
+  :i_code: EFL
+  :name: Kefalonia Cephalonia International Airport
+- :city: Patras
+  :country: Greece
+  :i_code: GPA
+  :name: Patras Araxos Airport
+- :city: Heraklion
+  :country: Greece
+  :i_code: HER
+  :name: Heraklion International Airport
+- :city: Mykonos
+  :country: Greece
+  :i_code: JMK
+  :name: Mykonos Island National Airport
+- :city: Skiathos
+  :country: Greece
+  :i_code: JSI
+  :name: Skiathos Island National Airport
+- :city: Santorini
+  :country: Greece
+  :i_code: JTR
+  :name: Santorini Thira National Airport
+- :city: Kos
+  :country: Greece
+  :i_code: KGS
+  :name: Kos Island International Airport
+- :city: Kalamata
+  :country: Greece
+  :i_code: KLX
+  :name: Kalamata International Airport
+- :city: Kavala
+  :country: Greece
+  :i_code: KVA
+  :name: Kavala International Airport
+- :city: Lemnos
+  :country: Greece
+  :i_code: LXS
+  :name: Lemnos International Airport
+- :city: Mytilene
+  :country: Greece
+  :i_code: MJT
+  :name: Mytilene International Airport
+- :city: Preveza
+  :country: Greece
+  :i_code: PVK
+  :name: Aktion National Airport
+- :city: Rhodes
+  :country: Greece
+  :i_code: RHO
+  :name: Rhodes International Airport
+- :city: Thessaloniki
+  :country: Greece
+  :i_code: SKG
+  :name: Thessaloniki International Airport
+- :city: Samos
+  :country: Greece
+  :i_code: SMI
+  :name: Samos International Airport
+- :city: Volos
+  :country: Greece
+  :i_code: VOL
+  :name: Volos Nea Anchialos National Airport
+- :city: Zakynthos
+  :country: Greece
+  :i_code: ZTH
+  :name: Zakynthos International Airport
+- :city: Nuuk
+  :country: Greenland
+  :i_code: GOH
+  :name: Nuuk Airport
+- :city: Kangerlussuaq
+  :country: Greenland
+  :i_code: SFJ
+  :name: Kangerlussuaq Airport
+- :city: Qaanaaq
+  :country: Greenland
+  :i_code: THU
+  :name: Diamonds Thudufushi Beach & Water Villas
+- :city: Point Salines
+  :country: Grenada
+  :i_code: GND
+  :name: Grenada Maurice Bishop International Airport
+- :city: Pointe-a-Pitre
+  :country: Guadaloupe
+  :i_code: PTP
+  :name: Pointe-a-Pitre International Airport
+- :city: Guatemala City
+  :country: Guatemala
+  :i_code: GUA
+  :name: Guatemala City La Aurora International Airport
+- :city: Budapest
+  :country: Hungary
+  :i_code: BUD
+  :name: Budapest Ferenc Liszt International Airport
+- :city: Debrecen
+  :country: Hungary
+  :i_code: DEB
+  :name: Debrecen International Airport
+- :city: Sarmelleek
+  :country: Hungary
+  :i_code: SOB
+  :name: Sarmellek International Airport
+- :city: Reykjavik
+  :country: Iceland
+  :i_code: KEF
+  :name: Keflavik International Airport
+- :city: Reykjavik
+  :country: Iceland
+  :i_code: RKV
+  :name: Reykjavik Airport
+- :city: Amritsar
+  :country: India
+  :i_code: ATQ
+  :name: Amritsar International Airport
+- :city: Bangalore
+  :country: India
+  :i_code: BLR
+  :name: Bangalore Bengaluru International Airport
+- :city: Mumbai
+  :country: India
+  :i_code: BOM
+  :name: Chhatrapati Shivaji International Airport
+- :city: Kozhikode
+  :country: India
+  :i_code: CCJ
+  :name: Kozhikode Calicut International Airport
+- :city: Kolkata
+  :country: India
+  :i_code: CCU
+  :name: Kolkata International Airport
+- :city: Kochin
+  :country: India
+  :i_code: COK
+  :name: Cochin International Airport
+- :city: Delhi
+  :country: India
+  :i_code: DEL
+  :name: Delhi Indira Gandhi International Airport
+- :city: Goa
+  :country: India
+  :i_code: GOI
+  :name: Goa International Airport
+- :city: Hyderabad
+  :country: India
+  :i_code: HYD
+  :name: Hyderabad Rajiv Gandhi International Airport
+- :city: Imphal
+  :country: India
+  :i_code: IMF
+  :name: Imphal Airport
+- :city: Chennai
+  :country: India
+  :i_code: MAA
+  :name: Chennai International Airport
+- :city: Pune
+  :country: India
+  :i_code: PNQ
+  :name: Pune Airport
+- :city: Vijayawada
+  :country: India
+  :i_code: VGA
+  :name: Vijayawada Airport
+- :city: Bandung
+  :country: Indonesia
+  :i_code: BDO
+  :name: Bandung Husein Sastranegara International Airport
+- :city: Balikpapan
+  :country: Indonesia
+  :i_code: BPN
+  :name: Balikpapan Sepinggan Airport
+- :city: Batam
+  :country: Indonesia
+  :i_code: BTH
+  :name: Batam Hang Nadim Airport
+- :city: Jakarta
+  :country: Indonesia
+  :i_code: CGK
+  :name: Jakarta Soekarno Hatta International Airport
+- :city: Jambi
+  :country: Indonesia
+  :i_code: DJB
+  :name: Jambi Sultan Thaha Airport
+- :city: Jayapura
+  :country: Indonesia
+  :i_code: DJJ
+  :name: Jayapura Sentani Airport
+- :city: Denpasar
+  :country: Indonesia
+  :i_code: DPS
+  :name: Denpasar International Airport
+- :city: Medan
+  :country: Indonesia
+  :i_code: KNO
+  :name: Medan Kuala Namu International Airport
+- :city: Lombok
+  :country: Indonesia
+  :i_code: LOP
+  :name: Mataram Lombok International Airport
+- :city: Pekanbaru
+  :country: Indonesia
+  :i_code: PKU
+  :name: Pekanbaru Sultan Syarif Kasim II Airport
+- :city: Palembang
+  :country: Indonesia
+  :i_code: PLM
+  :name: Palembang International Airport
+- :city: Semarang
+  :country: Indonesia
+  :i_code: SRG
+  :name: Semarang Achmad Yani International Airport
+- :city: Surabaya
+  :country: Indonesia
+  :i_code: SUB
+  :name: Surabaya Juanda International Airport
+- :city: Ahvaz
+  :country: Iran
+  :i_code: AWZ
+  :name: Ahwaz International Airport
+- :city: Kish Island
+  :country: Iran
+  :i_code: KIH
+  :name: Kish International Airport
+- :city: Tabriz
+  :country: Iran
+  :i_code: TBZ
+  :name: Tabriz International Airport
+- :city: Baghdad
+  :country: Iraq
+  :i_code: BGW
+  :name: Baghdad International Airport
+- :city: Basra
+  :country: Iraq
+  :i_code: BSR
+  :name: Basra International Airport
+- :city: Arbil
+  :country: Iraq
+  :i_code: EBL
+  :name: Erbil International Airport
+- :city: Sulaimaniyah
+  :country: Iraq
+  :i_code: ISU
+  :name: Sulaimaniyah International Airport
+- :city: Najaf
+  :country: Iraq
+  :i_code: NJF
+  :name: Al Najaf International Airport
+- :city: Dublin
+  :country: Ireland
+  :i_code: DUB
+  :name: Dublin Airport
+- :city: Kerry
+  :country: Ireland
+  :i_code: KIR
+  :name: Kerry Airport
+- :city: Knock
+  :country: Ireland
+  :i_code: NOC
+  :name: Ireland West Airport Knock
+- :city: Cork
+  :country: Ireland
+  :i_code: ORK
+  :name: Cork Airport
+- :city: Shannon
+  :country: Ireland
+  :i_code: SNN
+  :name: Shannon Airport
+- :city: Tel Aviv
+  :country: Israel
+  :i_code: TLV
+  :name: Tel Aviv Ben Gurion International Airport
+- :city: Alghero
+  :country: Italy
+  :i_code: AHO
+  :name: Alghero Fertilia Airport
+- :city: Ancona
+  :country: Italy
+  :i_code: AOI
+  :name: Ancona Airport
+- :city: Brindisi
+  :country: Italy
+  :i_code: BDS
+  :name: Brindisi Airport
+- :city: Milan
+  :country: Italy
+  :i_code: BGY
+  :name: Bergamo Orio al Serio Airport
+- :city: Bologna
+  :country: Italy
+  :i_code: BLQ
+  :name: Bologna Guglielmo Marconi Airport
+- :city: Bari
+  :country: Italy
+  :i_code: BRI
+  :name: Bari Airport
+- :city: Cagliari
+  :country: Italy
+  :i_code: CAG
+  :name: Cagliari - Elmas Airport
+- :city: Rome
+  :country: Italy
+  :i_code: CIA
+  :name: Rome Ciampino Airport
+- :city: Comiso
+  :country: Italy
+  :i_code: CIY
+  :name: Comiso Airport
+- :city: Catania
+  :country: Italy
+  :i_code: CTA
+  :name: Catania Fontanarossa Airport
+- :city: Cuneo
+  :country: Italy
+  :i_code: CUF
+  :name: Turin Cuneo Levaldigi Airport
+- :city: Rome
+  :country: Italy
+  :i_code: FCO
+  :name: Rome Leonardo da Vinci-Fiumicino Airport
+- :city: Florence
+  :country: Italy
+  :i_code: FLR
+  :name: Florence Peretola Airport
+- :city: Forli
+  :country: Italy
+  :i_code: FRL
+  :name: Forli Airport
+- :city: Genoa
+  :country: Italy
+  :i_code: GOA
+  :name: Genoa Cristoforo Colombo Airport
+- :city: Milan
+  :country: Italy
+  :i_code: LIN
+  :name: Milan Linate Airport
+- :city: Lampedusa
+  :country: Italy
+  :i_code: LMP
+  :name: Lampedusa Airport
+- :city: Milan
+  :country: Italy
+  :i_code: MXP
+  :name: Milan Malpensa Airport
+- :city: Naples
+  :country: Italy
+  :i_code: NAP
+  :name: Naples Airport
+- :city: Olbia
+  :country: Italy
+  :i_code: OLB
+  :name: Olbia – Costa Smeralda Airport
+- :city: Perugia
+  :country: Italy
+  :i_code: PEG
+  :name: 'Perugia San Francesco d''Assisi – Umbria '
+- :city: Parma
+  :country: Italy
+  :i_code: PMF
+  :name: Parma Airport
+- :city: Palermo
+  :country: Italy
+  :i_code: PMO
+  :name: Palermo Falcone-Borsellino Airport
+- :city: Pantelleria
+  :country: Italy
+  :i_code: PNL
+  :name: Pantelleria Airport
+- :city: Pisa
+  :country: Italy
+  :i_code: PSA
+  :name: Pisa Galileo Galilei Airport
+- :city: Pescara
+  :country: Italy
+  :i_code: PSR
+  :name: Abruzzo Airport
+- :city: Reggio Calabria
+  :country: Italy
+  :i_code: REG
+  :name: Reggio Calabria Airport
+- :city: Rimini
+  :country: Italy
+  :i_code: RMI
+  :name: Rimini Federico Fellini Airport
+- :city: Lamezia Terme
+  :country: Italy
+  :i_code: SUF
+  :name: Lamezia Terme Airport
+- :city: Trapani
+  :country: Italy
+  :i_code: TPS
+  :name: Trapani Birgi Airport
+- :city: Turin
+  :country: Italy
+  :i_code: TRN
+  :name: Turin Caselle Airport
+- :city: Trieste
+  :country: Italy
+  :i_code: TRS
+  :name: Trieste Friuli Venezia Giulia Airport
+- :city: Treviso
+  :country: Italy
+  :i_code: TSF
+  :name: Treviso Airport
+- :city: Venice
+  :country: Italy
+  :i_code: VCE
+  :name: Venice Marco Polo Airport
+- :city: Verona
+  :country: Italy
+  :i_code: VRN
+  :name: Verona Airport
+- :city: Asahikawa
+  :country: Japan
+  :i_code: AKJ
+  :name: Asahikawa Airport
+- :city: Aomori
+  :country: Japan
+  :i_code: AOJ
+  :name: Aomori Airport
+- :city: Akita
+  :country: Japan
+  :i_code: AXT
+  :name: Akita Airport
+- :city: Sapporo
+  :country: Japan
+  :i_code: CTS
+  :name: New Chitose Airport
+- :city: Sukagawa
+  :country: Japan
+  :i_code: FKS
+  :name: Fukushima Airport
+- :city: Shizuoka
+  :country: Japan
+  :i_code: FSZ
+  :name: Shizuoka Airport
+- :city: Fukuoka
+  :country: Japan
+  :i_code: FUK
+  :name: Fukuoka Airport
+- :city: Hiroshima
+  :country: Japan
+  :i_code: HIJ
+  :name: Hiroshima Airport
+- :city: Hakodate
+  :country: Japan
+  :i_code: HKD
+  :name: Hakodate Airport
+- :city: Tokyo
+  :country: Japan
+  :i_code: HND
+  :name: Tokyo Haneda International Airport
+- :city: Omitama
+  :country: Japan
+  :i_code: IBR
+  :name: Ibaraki Airport
+- :city: Osaka
+  :country: Japan
+  :i_code: ITM
+  :name: Osaka International Airport
+- :city: Nankoku
+  :country: Japan
+  :i_code: KCZ
+  :name: Kochi Airport
+- :city: Niigata
+  :country: Japan
+  :i_code: KIJ
+  :name: Niigata Airport
+- :city: Osaka
+  :country: Japan
+  :i_code: KIX
+  :name: Kansai International Airport
+- :city: Kitakyushu
+  :country: Japan
+  :i_code: KKJ
+  :name: Kitakyushu Airport
+- :city: Miyazaki
+  :country: Japan
+  :i_code: KMI
+  :name: Miyazaki Airport
+- :city: Komatsu
+  :country: Japan
+  :i_code: KMQ
+  :name: Komatsu Airport
+- :city: Kagoshima
+  :country: Japan
+  :i_code: KOJ
+  :name: Kagoshima Airport
+- :city: Kushiro
+  :country: Japan
+  :i_code: KUH
+  :name: Kushiro Airport
+- :city: Memanbetsu
+  :country: Japan
+  :i_code: MMB
+  :name: Memanbetsu Airport
+- :city: Matsuyama
+  :country: Japan
+  :i_code: MYJ
+  :name: Matsuyama Airport
+- :city: Nagoya
+  :country: Japan
+  :i_code: NGO
+  :name: Nagoya Chubu Centrair International Airport
+- :city: Nagasaki
+  :country: Japan
+  :i_code: NGS
+  :name: Nagasaki Airport
+- :city: Tokyo
+  :country: Japan
+  :i_code: NRT
+  :name: Tokyo Narita International Airport
+- :city: Obihiro
+  :country: Japan
+  :i_code: OBO
+  :name: Obihiro Tokachi Airport
+- :city: Oita
+  :country: Japan
+  :i_code: OIT
+  :name: Oita Airport
+- :city: Naha
+  :country: Japan
+  :i_code: OKA
+  :name: Naha Airport
+- :city: Okayama
+  :country: Japan
+  :i_code: OKJ
+  :name: Okayama Airport
+- :city: Sendai
+  :country: Japan
+  :i_code: SDJ
+  :name: Sendai Airport
+- :city: Takamatsu
+  :country: Japan
+  :i_code: TAK
+  :name: Takamatsu Airport
+- :city: Tokushima
+  :country: Japan
+  :i_code: TKS
+  :name: Tokushima Airport
+- :city: Toyama
+  :country: Japan
+  :i_code: TOY
+  :name: Toyama Airport
+- :city: Ube
+  :country: Japan
+  :i_code: UBJ
+  :name: Ube Yamaguchi Airport
+- :city: Wakkanai
+  :country: Japan
+  :i_code: WKJ
+  :name: Wakkanai Airport
+- :city: Yonago
+  :country: Japan
+  :i_code: YGJ
+  :name: Miho-Yonago Airport
+- :city: Amman
+  :country: Jordan
+  :i_code: AMM
+  :name: Amman Queen Alia International Airport
+- :city: Aktobe
+  :country: Kazakhstan
+  :i_code: AKX
+  :name: Aktobe Airport
+- :city: Almaty
+  :country: Kazakhstan
+  :i_code: ALA
+  :name: Almaty International Airport
+- :city: Shymkent
+  :country: Kazakhstan
+  :i_code: CIT
+  :name: Shymkent International Airport
+- :city: Semipalatinsk
+  :country: Kazakhstan
+  :i_code: PLX
+  :name: Semipalatinsk Semey Airport
+- :city: Aktau
+  :country: Kazakhstan
+  :i_code: SCO
+  :name: Aktau Airport
+- :city: Astana
+  :country: Kazakhstan
+  :i_code: TSE
+  :name: Astana International Airport
+- :city: Oskemen
+  :country: Kazakhstan
+  :i_code: UKK
+  :name: Oskemen Airport
+- :city: Oral
+  :country: Kazakhstan
+  :i_code: URA
+  :name: Oral Ak Zhol Airport
+- :city: Nairobi
+  :country: Kenya
+  :i_code: NBO
+  :name: Nairobi Jomo Kenyatta International Airport
+- :city: Pristina
+  :country: Kosovo
+  :i_code: PRN
+  :name: Pristina International Airport
+- :city: Kuwait City
+  :country: Kuwait
+  :i_code: KWI
+  :name: Kuwait International Airport
+- :city: Bishkek
+  :country: Kyrgyzstan
+  :i_code: FRU
+  :name: Bishkek Manas International Airport
+- :city: Vientiane
+  :country: Laos
+  :i_code: VTE
+  :name: Vientiane Wattay International Airport
+- :city: Riga
+  :country: Latvia
+  :i_code: RIX
+  :name: Riga International Airport
+- :city: Beirut
+  :country: Lebanon
+  :i_code: BEY
+  :name: Beirut Rafic Hariri International Airport
+- :city: Benghazi
+  :country: Libya
+  :i_code: BEN
+  :name: Benina International Airport
+- :city: Misrata
+  :country: Libya
+  :i_code: MRA
+  :name: Misrata International Airport
+- :city: Tripoli
+  :country: Libya
+  :i_code: TIP
+  :name: Tripoli International Airport
+- :city: Kaunas
+  :country: Lithuania
+  :i_code: KUN
+  :name: Kaunas Airport
+- :city: Palanga
+  :country: Lithuania
+  :i_code: PLQ
+  :name: Palanga International Airport
+- :city: Vilnius
+  :country: Lithuania
+  :i_code: VNO
+  :name: Vilnius International Airport
+- :city: Luxembourg
+  :country: Luxembourg
+  :i_code: LUX
+  :name: Luxembourg Findel Airport
+- :city: Skopje
+  :country: Macedonia
+  :i_code: SKP
+  :name: Skopje "Alexander the Great" Airport
+- :city: Kota Kinabalu
+  :country: Malaysia
+  :i_code: BKI
+  :name: Kota Kinabalu International Airport
+- :city: Johor Bahru
+  :country: Malaysia
+  :i_code: JHB
+  :name: Johor Bahru Senai International Airport
+- :city: Kuching
+  :country: Malaysia
+  :i_code: KCH
+  :name: Kuching International Airport
+- :city: Kuala Lumpur
+  :country: Malaysia
+  :i_code: KUL
+  :name: Kuala Lumpur International Airport
+- :city: Langkawi
+  :country: Malaysia
+  :i_code: LGK
+  :name: Langkawi International Airport
+- :city: Penang
+  :country: Malaysia
+  :i_code: PEN
+  :name: Penang International Airport
+- :city: Kuala Terengganu
+  :country: Malaysia
+  :i_code: TGG
+  :name: Kuala Terengganu Sultan Mahmud Airport
+- :city: Gan
+  :country: Maldives
+  :i_code: GAN
+  :name: Gan Airport
+- :city: Kadhdhoo
+  :country: Maldives
+  :i_code: KDO
+  :name: Kadhdhoo
+- :city: Male
+  :country: Maldives
+  :i_code: MLE
+  :name: Male International
+- :city: Valletta
+  :country: Malta
+  :i_code: MLA
+  :name: Malta International Airport
+- :city: Fort-de-France
+  :country: Martinique
+  :i_code: FDF
+  :name: Martinique Aime Cesaire International Airport
+- :city: Port Louis
+  :country: Mauritius
+  :i_code: MRU
+  :name: Sir Seewoosagur Ramgoolam
+- :city: Ciudad Obregon
+  :country: Mexico
+  :i_code: CEN
+  :name: Ciudad Obregón International Airport
+- :city: Culiacan
+  :country: Mexico
+  :i_code: CUL
+  :name: Culiacan International Airport
+- :city: Cancun
+  :country: Mexico
+  :i_code: CUN
+  :name: Cancun International Airport
+- :city: Guadalajara
+  :country: Mexico
+  :i_code: GDL
+  :name: Guadalajara International Airport
+- :city: Hermosillo
+  :country: Mexico
+  :i_code: HMO
+  :name: Hermosillo International Airport
+- :city: Mexico City
+  :country: Mexico
+  :i_code: MEX
+  :name: Mexico Benito Juarez International Airport
+- :city: Merida
+  :country: Mexico
+  :i_code: MID
+  :name: Merida Rejon Airport
+- :city: Monterrey
+  :country: Mexico
+  :i_code: MTY
+  :name: Monterrey International Airport
+- :city: Torreon
+  :country: Mexico
+  :i_code: TRC
+  :name: Torreon Francisco Sarabia International Airport
+- :city: Chisinau
+  :country: Moldova
+  :i_code: KIV
+  :name: Chisinau International Airport
+- :city: Podgorica
+  :country: Montenegro
+  :i_code: TGD
+  :name: Podgorica Airport
+- :city: Tivat
+  :country: Montenegro
+  :i_code: TIV
+  :name: Tivat Airport
+- :city: Casablanca
+  :country: Morocco
+  :i_code: CMN
+  :name: Casablanca Mohammed V International Airport
+- :city: Fes
+  :country: Morocco
+  :i_code: FEZ
+  :name: Fes Saiss Airport
+- :city: Nador
+  :country: Morocco
+  :i_code: NDR
+  :name: Nador International Airport
+- :city: Oujda
+  :country: Morocco
+  :i_code: OUD
+  :name: Oujda Angads Airport
+- :city: Marrakech
+  :country: Morocco
+  :i_code: RAK
+  :name: Marrakesh Menara Airport
+- :city: Rabat
+  :country: Morocco
+  :i_code: RBA
+  :name: Rabat-Sale Airport
+- :city: Tangier
+  :country: Morocco
+  :i_code: TNG
+  :name: Tangier Ibn Battouta Airport
+- :city: Dakhla
+  :country: Morocco
+  :i_code: VIL
+  :name: Dakhla Airport
+- :city: Maputo
+  :country: Mozambique
+  :i_code: MPM
+  :name: Maputo International Airport
+- :city: Windhoek
+  :country: Namibia
+  :i_code: WDH
+  :name: Windhoek Hosea Kutako International Airport
+- :city: Kathmandu
+  :country: Nepal
+  :i_code: KTM
+  :name: Kathmandu Tribhuvan International Airport
+- :city: Amsterdam
+  :country: Netherlands
+  :i_code: AMS
+  :name: Amsterdam Schiphol Airport
+- :city: Eindhoven
+  :country: Netherlands
+  :i_code: EIN
+  :name: Eindhoven Airport
+- :city: Groningen
+  :country: Netherlands
+  :i_code: GRQ
+  :name: Groningen Airport Eelde
+- :city: Maastricht
+  :country: Netherlands
+  :i_code: MST
+  :name: Maastricht Aachen Airport
+- :city: Rotterdam
+  :country: Netherlands
+  :i_code: RTM
+  :name: Rotterdam The Hague Airport
+- :city: Saint Martin
+  :country: Netherlands
+  :i_code: SXM
+  :name: Saint Martin Princess Juliana International Airport
+- :city: Noumea
+  :country: New Caledonia
+  :i_code: GEA
+  :name: Noumea Magenta Airport
+- :city: Noumea
+  :country: New Caledonia
+  :i_code: NOU
+  :name: Noumea La Tontouta International Airport
+- :city: Auckland
+  :country: New Zealand
+  :i_code: AKL
+  :name: Auckland Airport
+- :city: Christchurch
+  :country: New Zealand
+  :i_code: CHC
+  :name: Christchurch International Airport
+- :city: Dunedin
+  :country: New Zealand
+  :i_code: DUD
+  :name: Dunedin International Airport
+- :city: Hamilton
+  :country: New Zealand
+  :i_code: HLZ
+  :name: Hamilton International Airport
+- :city: Napier
+  :country: New Zealand
+  :i_code: NPE
+  :name: Napier Hawke's Bay Airport
+- :city: New Plymouth
+  :country: New Zealand
+  :i_code: NPL
+  :name: New Plymouth Airport
+- :city: Nelson
+  :country: New Zealand
+  :i_code: NSN
+  :name: Nelson Airport
+- :city: Palmerston North
+  :country: New Zealand
+  :i_code: PMR
+  :name: Palmerston North International Airport
+- :city: Tauranga
+  :country: New Zealand
+  :i_code: TRG
+  :name: Tauranga Airport
+- :city: Wellington
+  :country: New Zealand
+  :i_code: WLG
+  :name: Wellington International Airport
+- :city: Queenstown
+  :country: New Zealand
+  :i_code: ZQN
+  :name: Queenstown Airport
+- :city: Lagos
+  :country: Nigeria
+  :i_code: LOS
+  :name: Lagos Murtala Mohammed Airport
+- :city: Alesund
+  :country: Norway
+  :i_code: AES
+  :name: Alesund Vigra Airport
+- :city: Alta
+  :country: Norway
+  :i_code: ALF
+  :name: Alta Airport
+- :city: Bardufoss
+  :country: Norway
+  :i_code: BDU
+  :name: Bardufoss Airport
+- :city: Bergen
+  :country: Norway
+  :i_code: BGO
+  :name: Bergen Flesland Airport
+- :city: Bodo
+  :country: Norway
+  :i_code: BOO
+  :name: Bodo Airport
+- :city: Harstad
+  :country: Norway
+  :i_code: EVE
+  :name: Evenes Harstad/Narvik Airport
+- :city: Haugesund
+  :country: Norway
+  :i_code: HAU
+  :name: Haugesund Karmoy Airport
+- :city: Kirkenes
+  :country: Norway
+  :i_code: KKN
+  :name: Kirkenes Hoybuktmoen Airport
+- :city: Kristiansand
+  :country: Norway
+  :i_code: KRS
+  :name: Kristiansand Kjevik Airport
+- :city: Kristiansund
+  :country: Norway
+  :i_code: KSU
+  :name: Kristiansund Kvernberget Airport
+- :city: Molde
+  :country: Norway
+  :i_code: MOL
+  :name: Molde Aro Airport
+- :city: Oslo
+  :country: Norway
+  :i_code: OSL
+  :name: Oslo Gardermoen Airport
+- :city: Oslo
+  :country: Norway
+  :i_code: RYG
+  :name: Oslo Moss Airport Rygge
+- :city: Stavanger
+  :country: Norway
+  :i_code: SVG
+  :name: Stavanger Sola Airport
+- :city: Tromso
+  :country: Norway
+  :i_code: TOS
+  :name: Tromso Airport
+- :city: Trondheim
+  :country: Norway
+  :i_code: TRD
+  :name: Trondheim Vaernes Airport
+- :city: Oslo
+  :country: Norway
+  :i_code: TRF
+  :name: Oslo Sandefjord Airport
+- :city: Muscat
+  :country: Oman
+  :i_code: MCT
+  :name: Muscat International Airport
+- :city: Islamabad
+  :country: Pakistan
+  :i_code: ISB
+  :name: Islamabad Benazir Bhutto International Airport
+- :city: Karachi
+  :country: Pakistan
+  :i_code: KHI
+  :name: Karachi Jinnah International Airport
+- :city: Lahore
+  :country: Pakistan
+  :i_code: LHE
+  :name: Lahore Allama Iqbal International Airport
+- :city: Multan
+  :country: Pakistan
+  :i_code: MUX
+  :name: Multan International Airport
+- :city: Panama City
+  :country: Panama
+  :i_code: PTY
+  :name: Panama City Tocumen International Airport
+- :city: Port Moresby
+  :country: Papua New Guinea
+  :i_code: POM
+  :name: Port Moresby Jacksons International Airport
+- :city: Asuncion
+  :country: Paraguay
+  :i_code: ASU
+  :name: Asuncion Silvio Pettirossi International Airport
+- :city: Lima
+  :country: Peru
+  :i_code: LIM
+  :name: Lima Jorge Chavez International Airport
+- :city: Cebu
+  :country: Philippines
+  :i_code: CEB
+  :name: Cebu Mactan International Airport
+- :city: Dumaguete
+  :country: Philippines
+  :i_code: DGT
+  :name: Dumaguete City Sibulan Airport
+- :city: Davao City
+  :country: Philippines
+  :i_code: DVO
+  :name: Davao City Francisco Bangoy International Airport
+- :city: Manila
+  :country: Philippines
+  :i_code: MNL
+  :name: Ninoy Aquino International Airport
+- :city: Bydgoszcz
+  :country: Poland
+  :i_code: BZG
+  :name: Bydgoszcz Ignacy Jan Paderewski Airport
+- :city: Gdansk
+  :country: Poland
+  :i_code: GDN
+  :name: Gdansk Lech Walesa Airport
+- :city: Krakow
+  :country: Poland
+  :i_code: KRK
+  :name: Krakow John Paul II International Airport
+- :city: Katowice
+  :country: Poland
+  :i_code: KTW
+  :name: Katowice International Airport
+- :city: Lodz
+  :country: Poland
+  :i_code: LCJ
+  :name: Lodz Wladyslaw Reymont Airport
+- :city: Lublin
+  :country: Poland
+  :i_code: LUZ
+  :name: Lublin Airport
+- :city: Poznan
+  :country: Poland
+  :i_code: POZ
+  :name: Poznan Lawica Airport
+- :city: Rzeszow
+  :country: Poland
+  :i_code: RZE
+  :name: Rzeszow Jasionka Airport
+- :city: Szczecin
+  :country: Poland
+  :i_code: SZZ
+  :name: Szczecin Goleniow Airport
+- :city: Warsaw
+  :country: Poland
+  :i_code: WAW
+  :name: Warsaw Chopin Airport
+- :city: Warsaw
+  :country: Poland
+  :i_code: WMI
+  :name: Warsaw Modlin Airport
+- :city: Wroclaw
+  :country: Poland
+  :i_code: WRO
+  :name: Wroclaw Copernicus Airport
+- :city: Faro
+  :country: Portugal
+  :i_code: FAO
+  :name: Faro Airport
+- :city: Funchal
+  :country: Portugal
+  :i_code: FNC
+  :name: Madeira Airport
+- :city: Horta
+  :country: Portugal
+  :i_code: HOR
+  :name: Horta Airport
+- :city: Lisbon
+  :country: Portugal
+  :i_code: LIS
+  :name: Lisbon Portela Airport
+- :city: Porto
+  :country: Portugal
+  :i_code: OPO
+  :name: Porto Francisco de Sa Carneiro Airport
+- :city: Ponta Delgada
+  :country: Portugal
+  :i_code: PDL
+  :name: Joao Paulo II Airport
+- :city: Pico
+  :country: Portugal
+  :i_code: PIX
+  :name: Pico Airport
+- :city: Porto Santo
+  :country: Portugal
+  :i_code: PXO
+  :name: Porto Santo Airport
+- :city: Santa Maria
+  :country: Portugal
+  :i_code: SMA
+  :name: Santa Maria Airport
+- :city: Lajes
+  :country: Portugal
+  :i_code: TER
+  :name: Lajes Field
+- :city: San Juan
+  :country: Puerto Rico
+  :i_code: SJU
+  :name: San Juan Luis Munoz Marin International Airport
+- :city: Doha
+  :country: Qatar
+  :i_code: DOH
+  :name: Doha International Airport
+- :city: Saint-Denis
+  :country: Reunion
+  :i_code: RUN
+  :name: Roland Garros Airport
+- :city: Arad
+  :country: Romania
+  :i_code: ARW
+  :name: Arad International Airport
+- :city: Cluj-Napoca
+  :country: Romania
+  :i_code: CLJ
+  :name: Cluj-Napoca International Airport
+- :city: Constanta
+  :country: Romania
+  :i_code: CND
+  :name: Constanta International Airport
+- :city: Craiova
+  :country: Romania
+  :i_code: CRA
+  :name: Craiova Airport
+- :city: Iasi
+  :country: Romania
+  :i_code: IAS
+  :name: Iasi International Airport
+- :city: Bucharest
+  :country: Romania
+  :i_code: OTP
+  :name: Bucharest Henri Coanda International Airport
+- :city: Sibiu
+  :country: Romania
+  :i_code: SBZ
+  :name: Sibiu International Airport
+- :city: Targu Mures
+  :country: Romania
+  :i_code: TGM
+  :name: Targu Mures International Airport
+- :city: Timisoara
+  :country: Romania
+  :i_code: TSR
+  :name: Timisoara Traian Vuia International Airport
+- :city: Anapa
+  :country: Russia
+  :i_code: AAQ
+  :name: Anapa Airport
+- :city: Sochi
+  :country: Russia
+  :i_code: AER
+  :name: Sochi International Airport
+- :city: Arkhangelsk
+  :country: Russia
+  :i_code: ARH
+  :name: Arkhangelsk Talagi Airport
+- :city: Astrakhan
+  :country: Russia
+  :i_code: ASF
+  :name: Astrakhan Narimanovo Airport
+- :city: Barnaul
+  :country: Russia
+  :i_code: BAX
+  :name: Barnaul Airport
+- :city: Blagoveshchensk
+  :country: Russia
+  :i_code: BQS
+  :name: Blagoveshchensk Ignatyevo Airport
+- :city: Bratsk
+  :country: Russia
+  :i_code: BTK
+  :name: Bratsk Airport
+- :city: Chelyabinsk
+  :country: Russia
+  :i_code: CEK
+  :name: Chelyabinsk Airport
+- :city: Cheboksary
+  :country: Russia
+  :i_code: CSY
+  :name: Cheboksary Airport
+- :city: Moscow
+  :country: Russia
+  :i_code: DME
+  :name: Moscow Domodedovo International Airport
+- :city: Anadyr
+  :country: Russia
+  :i_code: DYR
+  :name: Ugolny Airport
+- :city: Belgorod
+  :country: Russia
+  :i_code: EGO
+  :name: Belgorod International Airport
+- :city: Magadan
+  :country: Russia
+  :i_code: GDX
+  :name: Magadan Sokol Airport
+- :city: Gelendzhik
+  :country: Russia
+  :i_code: GDZ
+  :name: Gelendzhik Airport
+- :city: Nizhny Novgorod
+  :country: Russia
+  :i_code: GOJ
+  :name: Nizhny Novgorod International Airport
+- :city: Khanty-Mansiysk
+  :country: Russia
+  :i_code: HMA
+  :name: Khanty-Mansiysk Airport
+- :city: Irkutsk
+  :country: Russia
+  :i_code: IKT
+  :name: Irkutsk International Airport
+- :city: Kemerovo
+  :country: Russia
+  :i_code: KEJ
+  :name: Kemerovo International Airport
+- :city: Kaliningrad
+  :country: Russia
+  :i_code: KGD
+  :name: Kaliningrad Khrabrovo Airport
+- :city: Khabarovsk
+  :country: Russia
+  :i_code: KHV
+  :name: Khabarovsk Novy Airport
+- :city: Krasnoyarsk
+  :country: Russia
+  :i_code: KJA
+  :name: Yemelyanovo Airport
+- :city: Krasnodar
+  :country: Russia
+  :i_code: KRR
+  :name: Krasnodar International Airport
+- :city: Samara
+  :country: Russia
+  :i_code: KUF
+  :name: Samara Kurumoch International Airport
+- :city: Kirov
+  :country: Russia
+  :i_code: KVX
+  :name: Kirov Pobedilovo Airport
+- :city: Komsomolsk na Amur
+  :country: Russia
+  :i_code: KXK
+  :name: Komsomolsk-on-Amur Airport
+- :city: Kazan
+  :country: Russia
+  :i_code: KZN
+  :name: Kazan International Airport
+- :city: Saint Petersburg
+  :country: Russia
+  :i_code: LED
+  :name: St. Petersburg Pulkovo Airport
+- :city: Makhachkala
+  :country: Russia
+  :i_code: MCX
+  :name: Makhachkala Uytash Airport
+- :city: Murmansk
+  :country: Russia
+  :i_code: MMK
+  :name: Murmansk Airport
+- :city: Mineralnye Vody
+  :country: Russia
+  :i_code: MRV
+  :name: Mineralnye Vody Airport
+- :city: Naberevnye Chelny
+  :country: Russia
+  :i_code: NBC
+  :name: Naberevnye Chelny Begishevo Airport
+- :city: Novokuznetsk
+  :country: Russia
+  :i_code: NOZ
+  :name: Novokuznetsk Spichenkovo Airport
+- :city: Norilsk
+  :country: Russia
+  :i_code: NSK
+  :name: Norilsk Alykel Airport
+- :city: Novy Urengoy
+  :country: Russia
+  :i_code: NUX
+  :name: Novy Urengoy Airport
+- :city: Nadym
+  :country: Russia
+  :i_code: NYM
+  :name: Nadym Airport
+- :city: Beslan
+  :country: Russia
+  :i_code: OGZ
+  :name: Beslan Airport
+- :city: Omsk
+  :country: Russia
+  :i_code: OMS
+  :name: Omsk Tsentralny Airport
+- :city: Novosibirsk
+  :country: Russia
+  :i_code: OVB
+  :name: Novosibirsk Tolmachevo Airport
+- :city: Perm
+  :country: Russia
+  :i_code: PEE
+  :name: Bolshoye Savino Airport
+- :city: Orenburg
+  :country: Russia
+  :i_code: REN
+  :name: Orenburg Tsentralny Airport
+- :city: Rostov-on-Don
+  :country: Russia
+  :i_code: ROV
+  :name: Rostov-on-Don Airport
+- :city: Saratov
+  :country: Russia
+  :i_code: RTW
+  :name: Saratov Tsentralny Airport
+- :city: Surgut
+  :country: Russia
+  :i_code: SGC
+  :name: Surgut International Airport
+- :city: Stavropol
+  :country: Russia
+  :i_code: STW
+  :name: Stavropol Shpakovskoye Airport
+- :city: Moscow
+  :country: Russia
+  :i_code: SVO
+  :name: Moscow Sheremetyevo International Airport
+- :city: Yekaterinburg
+  :country: Russia
+  :i_code: SVX
+  :name: Yekaterinburg Koltsovo Airport
+- :city: Tyumen
+  :country: Russia
+  :i_code: TJM
+  :name: Roschino International Airport
+- :city: Tomsk
+  :country: Russia
+  :i_code: TOF
+  :name: Bogashevo Airport
+- :city: Ufa
+  :country: Russia
+  :i_code: UFA
+  :name: Ufa International Airport
+- :city: Ulyanovsk
+  :country: Russia
+  :i_code: ULY
+  :name: Ulyanovsk Vostochny Airport
+- :city: Moscow
+  :country: Russia
+  :i_code: VKO
+  :name: Moscow Vnukovo International Airport
+- :city: Volgograd
+  :country: Russia
+  :i_code: VOG
+  :name: Volgograd International Airport
+- :city: Voronezh
+  :country: Russia
+  :i_code: VOZ
+  :name: Voronezh International Airport
+- :city: Vladivostok
+  :country: Russia
+  :i_code: VVO
+  :name: Vladivostok International Airport
+- :city: Castries
+  :country: Saint Lucia
+  :i_code: SLU
+  :name: Castries George F. L. Charles Airport
+- :city: Vieux Fort
+  :country: Saint Lucia
+  :i_code: UVF
+  :name: Hewanorra International Airport
+- :city: Kingstown
+  :country: Saint Vincent And The Grenadines
+  :i_code: SVD
+  :name: Kingstown E. T. Joshua Airport
+- :city: Dammam
+  :country: Saudi Arabia
+  :i_code: DMM
+  :name: Dammam King Fahd International Airport
+- :city: Jeddah
+  :country: Saudi Arabia
+  :i_code: JED
+  :name: Jeddah King Abdulaziz International Airport
+- :city: Medina
+  :country: Saudi Arabia
+  :i_code: MED
+  :name: Medhufushi Island Resort
+- :city: Riyadh
+  :country: Saudi Arabia
+  :i_code: RUH
+  :name: Riyadh King Khalid International Airport
+- :city: Belgrade
+  :country: Serbia
+  :i_code: BEG
+  :name: Belgrade Nikola Tesla Airport
+- :city: Victoria
+  :country: Seychelles
+  :i_code: SEZ
+  :name: Seychelles International Airport
+- :city: Singapore
+  :country: Singapore
+  :i_code: SIN
+  :name: Singapore Changi Airport
+- :city: Bratislava
+  :country: Slovakia
+  :i_code: BTS
+  :name: Bratislava M. R. Stefanik Airport
+- :city: Kosice
+  :country: Slovakia
+  :i_code: KSC
+  :name: Kosice International Airport
+- :city: Poprad
+  :country: Slovakia
+  :i_code: TAT
+  :name: Poprad-Tatry Airport
+- :city: Ljubljana
+  :country: Slovenia
+  :i_code: LJU
+  :name: Ljubljana Joze Pucnik Airport
+- :city: Cape Town
+  :country: South Africa
+  :i_code: CPT
+  :name: Cape Town International Airport
+- :city: Durban
+  :country: South Africa
+  :i_code: DUR
+  :name: Durban King Shaka International Airport
+- :city: Johannesburg
+  :country: South Africa
+  :i_code: JNB
+  :name: Johannesburg OR Tambo International Airport
+- :city: Port Elizabeth
+  :country: South Africa
+  :i_code: PLZ
+  :name: Port Elizabeth Airport
+- :city: Jeju
+  :country: South Korea
+  :i_code: CJU
+  :name: Jeju International Airport
+- :city: Seoul
+  :country: South Korea
+  :i_code: ICN
+  :name: Seoul Incheon International Airport
+- :city: Kimhae
+  :country: South Korea
+  :i_code: PUS
+  :name: Busan Gimhae International Airport
+- :city: Lanzarote
+  :country: Spain
+  :i_code: ACE
+  :name: Lanzarote Airport
+- :city: Malaga
+  :country: Spain
+  :i_code: AGP
+  :name: Malaga Costa Del Sol Airport
+- :city: Alicante
+  :country: Spain
+  :i_code: ALC
+  :name: Alicante Airport
+- :city: Barcelona
+  :country: Spain
+  :i_code: BCN
+  :name: Barcelona El Prat Airport
+- :city: Bilbao
+  :country: Spain
+  :i_code: BIO
+  :name: Bilbao Airport
+- :city: San Sebastian
+  :country: Spain
+  :i_code: EAS
+  :name: San Sebastian Airport
+- :city: Fuerteventura
+  :country: Spain
+  :i_code: FUE
+  :name: Fuerteventura Airport
+- :city: Girona
+  :country: Spain
+  :i_code: GRO
+  :name: Girona-Costa Brava Airport
+- :city: Granada
+  :country: Spain
+  :i_code: GRX
+  :name: Granada Federico Garcia Lorca Airport
+- :city: Ibiza
+  :country: Spain
+  :i_code: IBZ
+  :name: Ibiza Airport
+- :city: A Coruna
+  :country: Spain
+  :i_code: LCG
+  :name: A Coruna Airport
+- :city: Almeria
+  :country: Spain
+  :i_code: LEI
+  :name: Almeria Airport
+- :city: Las Palmas
+  :country: Spain
+  :i_code: LPA
+  :name: Gran Canaria Airport
+- :city: Madrid
+  :country: Spain
+  :i_code: MAD
+  :name: Madrid-Barajas Airport
+- :city: Minorca
+  :country: Spain
+  :i_code: MAH
+  :name: Menorca Airport
+- :city: Murcia
+  :country: Spain
+  :i_code: MJV
+  :name: Murcia San Javier Airport
+- :city: Melilla
+  :country: Spain
+  :i_code: MLN
+  :name: Melilla Airport
+- :city: Asturias
+  :country: Spain
+  :i_code: OVD
+  :name: Asturias Airport
+- :city: Palma de Mallorca
+  :country: Spain
+  :i_code: PMI
+  :name: Palma de Mallorca Airport
+- :city: Reus
+  :country: Spain
+  :i_code: REU
+  :name: Reus Airport
+- :city: Santiago
+  :country: Spain
+  :i_code: SCQ
+  :name: Santiago de Compostela Airport
+- :city: Santander
+  :country: Spain
+  :i_code: SDR
+  :name: Santander Airport
+- :city: La Palma
+  :country: Spain
+  :i_code: SPC
+  :name: La Palma Airport
+- :city: Seville
+  :country: Spain
+  :i_code: SVQ
+  :name: Seville San Pablo Airport
+- :city: Tenerife
+  :country: Spain
+  :i_code: TFN
+  :name: Tenerife North Airport
+- :city: Tenerife
+  :country: Spain
+  :i_code: TFS
+  :name: Tenerife South Airport
+- :city: Vigo
+  :country: Spain
+  :i_code: VGO
+  :name: Vigo-Peinador Airport
+- :city: Valencia
+  :country: Spain
+  :i_code: VLC
+  :name: Valencia Airport
+- :city: Valladolid
+  :country: Spain
+  :i_code: VLL
+  :name: Valladolid Airport
+- :city: Jerez
+  :country: Spain
+  :i_code: XRY
+  :name: Jerez Airport
+- :city: Zaragoza
+  :country: Spain
+  :i_code: ZAZ
+  :name: Zaragoza Airport
+- :city: Colombo
+  :country: Sri Lanka
+  :i_code: CMB
+  :name: Bandaranaike International Airport
+- :city: Khartoum
+  :country: Sudan
+  :i_code: KRT
+  :name: Khartoum International Airport
+- :city: Angelholm
+  :country: Sweden
+  :i_code: AGH
+  :name: Angelholm-Helsingborg Airport
+- :city: Arvidsjaur
+  :country: Sweden
+  :i_code: AJR
+  :name: Arvidsjaur Airport
+- :city: Stockholm
+  :country: Sweden
+  :i_code: ARN
+  :name: Stockholm Arlanda Airport
+- :city: Stockholm
+  :country: Sweden
+  :i_code: BMA
+  :name: Stockholm Bromma Airport
+- :city: Gallivare
+  :country: Sweden
+  :i_code: GEV
+  :name: Gallivare Airport
+- :city: Gothenburg
+  :country: Sweden
+  :i_code: GOT
+  :name: Gothenburg Landvetter Airport
+- :city: Gothenburg
+  :country: Sweden
+  :i_code: GSE
+  :name: Gothenburg City Airport
+- :city: Halmstad
+  :country: Sweden
+  :i_code: HAD
+  :name: Halmstad Airport
+- :city: Hemavan
+  :country: Sweden
+  :i_code: HMV
+  :name: Hemavan Airport
+- :city: Jonkoping
+  :country: Sweden
+  :i_code: JKG
+  :name: Jonkoping Airport
+- :city: Kalmar
+  :country: Sweden
+  :i_code: KLR
+  :name: Kalmar Airport
+- :city: Kramfors
+  :country: Sweden
+  :i_code: KRF
+  :name: Kramfors Airport
+- :city: Kiruna
+  :country: Sweden
+  :i_code: KRN
+  :name: Kiruna Airport
+- :city: Karlstad
+  :country: Sweden
+  :i_code: KSD
+  :name: Karlstad Airport
+- :city: Lulea
+  :country: Sweden
+  :i_code: LLA
+  :name: Lulea Airport
+- :city: Linkoping
+  :country: Sweden
+  :i_code: LPI
+  :name: Linkoping City Airport
+- :city: Lycksele
+  :country: Sweden
+  :i_code: LYC
+  :name: Lycksele Airport
+- :city: Malmo
+  :country: Sweden
+  :i_code: MMX
+  :name: Malmo Airport
+- :city: Norrkoping
+  :country: Sweden
+  :i_code: NRK
+  :name: Norrkoping Airport
+- :city: Stockholm
+  :country: Sweden
+  :i_code: NYO
+  :name: Stockholm Skavsta Airport
+- :city: Ornskoldsvik
+  :country: Sweden
+  :i_code: OER
+  :name: Ornskoldsvik Airport
+- :city: Orebro
+  :country: Sweden
+  :i_code: ORB
+  :name: Orebro Airport
+- :city: Ostersund
+  :country: Sweden
+  :i_code: OSD
+  :name: Are Ostersund Airport
+- :city: Ronneby
+  :country: Sweden
+  :i_code: RNB
+  :name: Ronneby Airport
+- :city: Sundsvall
+  :country: Sweden
+  :i_code: SDL
+  :name: Sundsvall-Harnosand Airport
+- :city: Skelleftea
+  :country: Sweden
+  :i_code: SFT
+  :name: Skelleftea Airport
+- :city: Storuman
+  :country: Sweden
+  :i_code: SQO
+  :name: Storuman Airport
+- :city: Umea
+  :country: Sweden
+  :i_code: UME
+  :name: Umea Airport
+- :city: Visby
+  :country: Sweden
+  :i_code: VBY
+  :name: Visby Airport
+- :city: Vilhelmina
+  :country: Sweden
+  :i_code: VHM
+  :name: Vilhelmina Airport
+- :city: Stockholm
+  :country: Sweden
+  :i_code: VST
+  :name: Stockholm Vasteras Hasslo Airport
+- :city: Vaxjo
+  :country: Sweden
+  :i_code: VXO
+  :name: Vaxjo-Smaland Airport
+- :city: Bern
+  :country: Switzerland
+  :i_code: BRN
+  :name: Bern Airport
+- :city: Geneva
+  :country: Switzerland
+  :i_code: GVA
+  :name: Geneva International Airport
+- :city: Zurich
+  :country: Switzerland
+  :i_code: ZRH
+  :name: Zurich Airport
+- :city: Aleppo
+  :country: Syria
+  :i_code: ALP
+  :name: Aleppo International Airport
+- :city: Kaohsiung
+  :country: Taiwan
+  :i_code: KHH
+  :name: Kaohsiung International Airport
+- :city: Taichung
+  :country: Taiwan
+  :i_code: RMQ
+  :name: Taichung Airport
+- :city: Taipei
+  :country: Taiwan
+  :i_code: TPE
+  :name: Taiwan Taoyuan International Airport
+- :city: Taipei
+  :country: Taiwan
+  :i_code: TSA
+  :name: Taipei Songshan Airport
+- :city: Dushanbe
+  :country: Tajikistan
+  :i_code: DYU
+  :name: Dushanbe International Airport
+- :city: Bangkok
+  :country: Thailand
+  :i_code: BKK
+  :name: Bangkok Suvarnabhumi Airport
+- :city: Chiang Mai
+  :country: Thailand
+  :i_code: CNX
+  :name: Chiang Mai International Airport
+- :city: Bangkok
+  :country: Thailand
+  :i_code: DMK
+  :name: Bangkok Don Mueang International Airport
+- :city: Phuket
+  :country: Thailand
+  :i_code: HKT
+  :name: Phuket International Airport
+- :city: Krabi
+  :country: Thailand
+  :i_code: KBV
+  :name: Krabi Airport
+- :city: Surat Thani
+  :country: Thailand
+  :i_code: URT
+  :name: Surat Thani Airport
+- :city: Koh Samui
+  :country: Thailand
+  :i_code: USM
+  :name: Samui Airport
+- :city: Port of Spain
+  :country: Trinidad And Tobago
+  :i_code: POS
+  :name: Port of Spain Piarco International Airport
+- :city: Djerba
+  :country: Tunisia
+  :i_code: DJE
+  :name: Djerba Zarzis International Airport
+- :city: Monastir
+  :country: Tunisia
+  :i_code: MIR
+  :name: Monastir Habib Bourguiba International Airport
+- :city: Enfidha
+  :country: Tunisia
+  :i_code: NBE
+  :name: Enfidha – Hammamet International Airport
+- :city: Sfax
+  :country: Tunisia
+  :i_code: SFA
+  :name: Sfax–Thyna International Airport
+- :city: Tunis
+  :country: Tunisia
+  :i_code: TUN
+  :name: Tunis–Carthage International Airport
+- :city: Adana
+  :country: Turkey
+  :i_code: ADA
+  :name: Adana Sakirpasa Airport
+- :city: Izmir
+  :country: Turkey
+  :i_code: ADB
+  :name: Izmir Adnan Menderes International Airport
+- :city: Antalya
+  :country: Turkey
+  :i_code: AYT
+  :name: Antalya Airport
+- :city: Bodrum
+  :country: Turkey
+  :i_code: BJV
+  :name: Milas-Bodrum Airport
+- :city: Dalaman
+  :country: Turkey
+  :i_code: DLM
+  :name: Dalaman Airport
+- :city: Cardak
+  :country: Turkey
+  :i_code: DNZ
+  :name: Denizli Cardak Airport
+- :city: Tymvou
+  :country: Turkey
+  :i_code: ECN
+  :name: Ercan International Airport
+- :city: Erzurum
+  :country: Turkey
+  :i_code: ERZ
+  :name: Erzurum Airport
+- :city: Ankara
+  :country: Turkey
+  :i_code: ESB
+  :name: Esenboga International Airport
+- :city: Gazipasa
+  :country: Turkey
+  :i_code: GZP
+  :name: Gazipasa Airport
+- :city: Gaziantep
+  :country: Turkey
+  :i_code: GZT
+  :name: Oguzeli Airport
+- :city: Antakya
+  :country: Turkey
+  :i_code: HTY
+  :name: Antakya Hatay Airport
+- :city: Istanbul
+  :country: Turkey
+  :i_code: IST
+  :name: Istanbul Ataturk International Airport
+- :city: Konya
+  :country: Turkey
+  :i_code: KYA
+  :name: Konya Airport
+- :city: Malatya
+  :country: Turkey
+  :i_code: MLX
+  :name: Malatya Erhac Airport
+- :city: Istanbul
+  :country: Turkey
+  :i_code: SAW
+  :name: Istanbul Sabiha Gokcen International Airport
+- :city: Samsun
+  :country: Turkey
+  :i_code: SZF
+  :name: Samsun Carsamba Airport
+- :city: Trabzon
+  :country: Turkey
+  :i_code: TZX
+  :name: Trabzon Airport
+- :city: Dnipropetrovsk
+  :country: Ukraine
+  :i_code: DNK
+  :name: Dnipropetrovsk International Airport
+- :city: Donetsk
+  :country: Ukraine
+  :i_code: DOK
+  :name: Donetsk Sergey Prokofiev International Airport
+- :city: Kharkiv
+  :country: Ukraine
+  :i_code: HRK
+  :name: Kharkiv International Airport
+- :city: Kiev
+  :country: Ukraine
+  :i_code: IEV
+  :name: Kiev Zhuliany Airport
+- :city: Ivano-Frankivsk
+  :country: Ukraine
+  :i_code: IFO
+  :name: Ivano-Frankivsk International Airport
+- :city: Kiev
+  :country: Ukraine
+  :i_code: KBP
+  :name: Kiev Boryspil International Airport
+- :city: Lviv
+  :country: Ukraine
+  :i_code: LWO
+  :name: Lviv Danylo Halytskyi International Airport
+- :city: Odessa
+  :country: Ukraine
+  :i_code: ODS
+  :name: Odessa International Airport
+- :city: Simferopol
+  :country: Ukraine
+  :i_code: SIP
+  :name: Simferopol International Airport
+- :city: Al Ain
+  :country: United Arab Emirates
+  :i_code: AAN
+  :name: Al Ain International Airport
+- :city: Abu Dhabi
+  :country: United Arab Emirates
+  :i_code: AUH
+  :name: Abu Dhabi International Airport
+- :city: Dubai
+  :country: United Arab Emirates
+  :i_code: DWC
+  :name: Dubai Al Maktoum International Airport
+- :city: Dubai
+  :country: United Arab Emirates
+  :i_code: DXB
+  :name: Dubai International Airport
+- :city: Ra'sal-Khaymah
+  :country: United Arab Emirates
+  :i_code: RKT
+  :name: Ras Al Khaimah International Airport
+- :city: Sharjah
+  :country: United Arab Emirates
+  :i_code: SHJ
+  :name: Sharjah International Airport
+- :city: Aberdeen
+  :country: United Kingdom
+  :i_code: ABZ
+  :name: Aberdeen Airport
+- :city: Belfast
+  :country: United Kingdom
+  :i_code: BFS
+  :name: Belfast International Airport
+- :city: Belfast
+  :country: United Kingdom
+  :i_code: BHD
+  :name: George Best Belfast City Airport
+- :city: Birmingham
+  :country: United Kingdom
+  :i_code: BHX
+  :name: Birmingham Airport
+- :city: Blackpool
+  :country: United Kingdom
+  :i_code: BLK
+  :name: Blackpool International Airport
+- :city: Bournemouth
+  :country: United Kingdom
+  :i_code: BOH
+  :name: Bournemouth Airport
+- :city: Bristol
+  :country: United Kingdom
+  :i_code: BRS
+  :name: Bristol Airport
+- :city: Cardiff
+  :country: United Kingdom
+  :i_code: CWL
+  :name: Cardiff Airport
+- :city: Doncaster
+  :country: United Kingdom
+  :i_code: DSA
+  :name: Doncaster-Sheffield Robin Hood Airport
+- :city: Edinburgh
+  :country: United Kingdom
+  :i_code: EDI
+  :name: Edinburgh Airport
+- :city: East Midlands
+  :country: United Kingdom
+  :i_code: EMA
+  :name: East Midlands Airport
+- :city: Exeter
+  :country: United Kingdom
+  :i_code: EXT
+  :name: Exeter International Airport
+- :city: Guernsey
+  :country: United Kingdom
+  :i_code: GCI
+  :name: Guernsey Airport
+- :city: Glasgow
+  :country: United Kingdom
+  :i_code: GLA
+  :name: Glasgow International Airport
+- :city: Humberside
+  :country: United Kingdom
+  :i_code: HUY
+  :name: Humberside Airport
+- :city: Inverness
+  :country: United Kingdom
+  :i_code: INV
+  :name: Inverness Airport
+- :city: Isle of Man
+  :country: United Kingdom
+  :i_code: IOM
+  :name: Isle of Man Airport
+- :city: Isles Of Scilly
+  :country: United Kingdom
+  :i_code: ISC
+  :name: Isles of Scilly St Mary's Airport
+- :city: Jersey
+  :country: United Kingdom
+  :i_code: JER
+  :name: Jersey Airport
+- :city: Leeds
+  :country: United Kingdom
+  :i_code: LBA
+  :name: Leeds Bradford International Airport
+- :city: London
+  :country: United Kingdom
+  :i_code: LCY
+  :name: London City Airport
+- :city: Londonderry
+  :country: United Kingdom
+  :i_code: LDY
+  :name: City of Derry Airport
+- :city: London
+  :country: United Kingdom
+  :i_code: LGW
+  :name: London Gatwick Airport
+- :city: London
+  :country: United Kingdom
+  :i_code: LHR
+  :name: London Heathrow Airport
+- :city: Liverpool
+  :country: United Kingdom
+  :i_code: LPL
+  :name: Liverpool John Lennon Airport
+- :city: London
+  :country: United Kingdom
+  :i_code: LTN
+  :name: London Luton Airport
+- :city: Manchester
+  :country: United Kingdom
+  :i_code: MAN
+  :name: Manchester Airport
+- :city: Darlington
+  :country: United Kingdom
+  :i_code: MME
+  :name: Durham Tees Valley Airport
+- :city: Manston
+  :country: United Kingdom
+  :i_code: MSE
+  :name: Manston Kent International Airport
+- :city: Newcastle
+  :country: United Kingdom
+  :i_code: NCL
+  :name: Newcastle Airport
+- :city: Norwich
+  :country: United Kingdom
+  :i_code: NWI
+  :name: Norwich International Airport
+- :city: Prestwick
+  :country: United Kingdom
+  :i_code: PIK
+  :name: Glasgow Prestwick Airport
+- :city: Southend
+  :country: United Kingdom
+  :i_code: SEN
+  :name: London Southend Airport
+- :city: Southampton
+  :country: United Kingdom
+  :i_code: SOU
+  :name: Southampton Airport
+- :city: London
+  :country: United Kingdom
+  :i_code: STN
+  :name: London Stansted Airport
+- :city: ' NM'
+  :country: United States
+  :i_code: ABQ
+  :name: Albuquerque International Sunport
+- :city: ' NJ'
+  :country: United States
+  :i_code: ACY
+  :name: Atlantic City International Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: ALB
+  :name: Albany International Airport
+- :city: ' NM'
+  :country: United States
+  :i_code: ALM
+  :name: Alimatha Aquatic Resort
+- :city: ' AK'
+  :country: United States
+  :i_code: ANC
+  :name: Anchorage Ted Stevens International Airport
+- :city: ' GA'
+  :country: United States
+  :i_code: ATL
+  :name: Atlanta Hartsfield–Jackson International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: AUS
+  :name: Austin-Bergstrom International Airport
+- :city: ' CT'
+  :country: United States
+  :i_code: BDL
+  :name: Bradley International Airport
+- :city: ' WA'
+  :country: United States
+  :i_code: BFI
+  :name: Boeing Field
+- :city: ' ME'
+  :country: United States
+  :i_code: BGR
+  :name: Bangor International Airport
+- :city: ' AL'
+  :country: United States
+  :i_code: BHM
+  :name: Birmingham–Shuttlesworth International Airport
+- :city: ' TN'
+  :country: United States
+  :i_code: BNA
+  :name: Nashville International Airport
+- :city: ' ID'
+  :country: United States
+  :i_code: BOI
+  :name: Boise Airport
+- :city: ' MA'
+  :country: United States
+  :i_code: BOS
+  :name: Boston Logan International Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: BUF
+  :name: Buffalo Niagara International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: BUR
+  :name: Bob Hope Airport
+- :city: ' MD'
+  :country: United States
+  :i_code: BWI
+  :name: Baltimore/Washington International Airport
+- :city: ' SC'
+  :country: United States
+  :i_code: CHS
+  :name: Charleston International Airport
+- :city: ' OH'
+  :country: United States
+  :i_code: CLE
+  :name: Cleveland Hopkins International Airport
+- :city: ' NC'
+  :country: United States
+  :i_code: CLT
+  :name: Charlotte Douglas International Airport
+- :city: ' OH'
+  :country: United States
+  :i_code: CMH
+  :name: Port Columbus International Airport
+- :city: ' NH'
+  :country: United States
+  :i_code: CON
+  :name: Conrad Maldives Rangali Island
+- :city: ' KY'
+  :country: United States
+  :i_code: CVG
+  :name: Cincinnati/Northern Kentucky International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: DAL
+  :name: Dallas Love Field
+- :city: ' OH'
+  :country: United States
+  :i_code: DAY
+  :name: Dayton International Airport
+- :city: ' DC'
+  :country: United States
+  :i_code: DCA
+  :name: Washington Ronald Reagan National Airport
+- :city: ' CO'
+  :country: United States
+  :i_code: DEN
+  :name: Denver International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: DFW
+  :name: Dallas Fort Worth International Airport
+- :city: ' IA'
+  :country: United States
+  :i_code: DSM
+  :name: Des Moines International Airport
+- :city: ' MI'
+  :country: United States
+  :i_code: DTW
+  :name: Detroit Metropolitan Wayne County Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: ELP
+  :name: El Paso International Airport
+- :city: ' NJ'
+  :country: United States
+  :i_code: EWR
+  :name: New York Newark Liberty International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: EYW
+  :name: Key West International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: FLL
+  :name: Fort Lauderdale Hollywood International Airport
+- :city: ' WA'
+  :country: United States
+  :i_code: GEG
+  :name: Spokane International Airport
+- :city: ' MI'
+  :country: United States
+  :i_code: GRR
+  :name: Grand Rapids Gerald R. Ford International Airport
+- :city: ' HI'
+  :country: United States
+  :i_code: HNL
+  :name: Honolulu International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: HOU
+  :name: Houston William P. Hobby Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: HPN
+  :name: White Plains Westchester County Airport
+- :city: ' DC'
+  :country: United States
+  :i_code: IAD
+  :name: Washington Dulles International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: IAH
+  :name: George Bush Intercontinental Airport
+- :city: ' IN'
+  :country: United States
+  :i_code: IND
+  :name: Indianapolis International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: JAX
+  :name: Jacksonville International Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: JFK
+  :name: New York John F. Kennedy International Airport
+- :city: ' HI'
+  :country: United States
+  :i_code: KOA
+  :name: Kona International Airport
+- :city: ' GE'
+  :country: United States
+  :i_code: KUT
+  :name: Kutaisi International Airport
+- :city: ' NV'
+  :country: United States
+  :i_code: LAS
+  :name: Las Vegas McCarran International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: LAX
+  :name: Los Angeles International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: LBB
+  :name: Lubbock Preston Smith International Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: LGA
+  :name: New York LaGuardia Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: LGB
+  :name: Long Beach Airport
+- :city: ' HI'
+  :country: United States
+  :i_code: LIH
+  :name: Lihue Airport
+- :city: ' AR'
+  :country: United States
+  :i_code: LIT
+  :name: Little Rock Clinton National Airport
+- :city: ' MO'
+  :country: United States
+  :i_code: MCI
+  :name: Kansas City International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: MCO
+  :name: Orlando International Airport
+- :city: ' PA'
+  :country: United States
+  :i_code: MDT
+  :name: Harrisburg International Airport
+- :city: ' IL'
+  :country: United States
+  :i_code: MDW
+  :name: Chicago Midway International Airport
+- :city: ' TN'
+  :country: United States
+  :i_code: MEM
+  :name: Memphis International Airport
+- :city: ' NH'
+  :country: United States
+  :i_code: MHT
+  :name: Manchester–Boston Regional Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: MIA
+  :name: Miami International Airport
+- :city: ' WI'
+  :country: United States
+  :i_code: MKE
+  :name: Milwaukee General Mitchell International Airport
+- :city: ' MN'
+  :country: United States
+  :i_code: MSP
+  :name: Minneapolis Saint Paul International Airport
+- :city: ' LA'
+  :country: United States
+  :i_code: MSY
+  :name: New Orleans Louis Armstrong International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: OAK
+  :name: Oakland International Airport
+- :city: ' HI'
+  :country: United States
+  :i_code: OGG
+  :name: Kahului Airport
+- :city: ' OK'
+  :country: United States
+  :i_code: OKC
+  :name: Oklahoma City Will Rogers World Airport
+- :city: ' NE'
+  :country: United States
+  :i_code: OMA
+  :name: Omaha Eppley Airfield
+- :city: ' CA'
+  :country: United States
+  :i_code: ONT
+  :name: LA/Ontario International Airport
+- :city: ' IL'
+  :country: United States
+  :i_code: ORD
+  :name: Chicago O'Hare International Airport
+- :city: ' VA'
+  :country: United States
+  :i_code: ORF
+  :name: Norfolk International Airport
+- :city: ' WA'
+  :country: United States
+  :i_code: PAE
+  :name: Everett Paine Field
+- :city: ' FL'
+  :country: United States
+  :i_code: PBI
+  :name: West Palm Beach International Airport
+- :city: ' OR'
+  :country: United States
+  :i_code: PDX
+  :name: Portland International Airport
+- :city: ' PA'
+  :country: United States
+  :i_code: PHL
+  :name: Philadelphia International Airport
+- :city: ' AZ'
+  :country: United States
+  :i_code: PHX
+  :name: Phoenix Sky Harbor International Airport
+- :city: ' PA'
+  :country: United States
+  :i_code: PIT
+  :name: Pittsburgh International Airport
+- :city: ' RI'
+  :country: United States
+  :i_code: PVD
+  :name: Providence Theodore Francis Green Airport
+- :city: ' NC'
+  :country: United States
+  :i_code: RDU
+  :name: Raleigh–Durham International Airport
+- :city: ' VA'
+  :country: United States
+  :i_code: RIC
+  :name: Richmond Airport
+- :city: ' NV'
+  :country: United States
+  :i_code: RNO
+  :name: Reno–Tahoe International Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: ROC
+  :name: Rochester International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: RSW
+  :name: Southwest Florida International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: SAN
+  :name: San Diego International Airport
+- :city: ' TX'
+  :country: United States
+  :i_code: SAT
+  :name: San Antonio International Airport
+- :city: ' KY'
+  :country: United States
+  :i_code: SDF
+  :name: Louisville International Airport
+- :city: ' WA'
+  :country: United States
+  :i_code: SEA
+  :name: Seattle-Tacoma International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: SFB
+  :name: Orlando Sanford International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: SFO
+  :name: San Francisco International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: SJC
+  :name: San Jose International Airport
+- :city: ' UT'
+  :country: United States
+  :i_code: SLC
+  :name: Salt Lake City International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: SMF
+  :name: Sacramento International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: SNA
+  :name: John Wayne Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: SRQ
+  :name: Sarasota-Bradenton International Airport
+- :city: ' MO'
+  :country: United States
+  :i_code: STL
+  :name: St. Louis Lambert International Airport
+- :city: ' NY'
+  :country: United States
+  :i_code: SYR
+  :name: Syracuse Hancock International Airport
+- :city: ' FL'
+  :country: United States
+  :i_code: TPA
+  :name: Tampa International Airport
+- :city: ' OK'
+  :country: United States
+  :i_code: TUL
+  :name: Tulsa International Airport
+- :city: ' AZ'
+  :country: United States
+  :i_code: TUS
+  :name: Tucson International Airport
+- :city: ' CA'
+  :country: United States
+  :i_code: VCV
+  :name: Southern California Logistics Airport
+- :city: Montevideo
+  :country: Uruguay
+  :i_code: MVD
+  :name: Montevideo Carrasco International Airport
+- :city: Tashkent
+  :country: Uzbekistan
+  :i_code: TAS
+  :name: Tashkent International Airport
+- :city: Luganville
+  :country: Vanuatu
+  :i_code: SON
+  :name: Soneva Fushi Resort & Six Senses Spa
+- :city: Caracas
+  :country: Venezuela
+  :i_code: CCS
+  :name: Caracas Simon Bolivar International Airport
+- :city: Maracaibo
+  :country: Venezuela
+  :i_code: MAR
+  :name: Maracaibo La Chinita International Airport
+- :city: Porlamar
+  :country: Venezuela
+  :i_code: PMV
+  :name: Porlamar International Airport
+- :city: Nha Trang
+  :country: Vietnam
+  :i_code: CXR
+  :name: Nha Trang Cam Ranh International Airport
+- :city: Da Nang
+  :country: Vietnam
+  :i_code: DAD
+  :name: Da Nang International Airport
+- :city: Hanoi
+  :country: Vietnam
+  :i_code: HAN
+  :name: Hanoi Noi Bai International Airport
+- :city: Ho Chi Minh City
+  :country: Vietnam
+  :i_code: SGN
+  :name: Tan Son Nhat International Airport
+- :city: Can Tho
+  :country: Vietnam
+  :i_code: VCA
+  :name: Can Tho International Airport
