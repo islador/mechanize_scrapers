@@ -142,7 +142,6 @@ destination_airports = []
 airlines = extract_column_airlines(airline_code_parser, "Airline")
 #iterate through those links
 airlines.each do |d|
-	if airlines.index(d) > 2300
 	puts d
 
 	#Visit each airline page
@@ -230,5 +229,4 @@ puts "Converting final array to yaml."
 FileUtils.mkdir_p "./seed/"
 File.open("./seed/airlines.yml",'w') do |out|
 	YAML.dump(storage, out)
-end
 end
